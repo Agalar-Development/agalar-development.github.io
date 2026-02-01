@@ -55,7 +55,7 @@ export default function Layout() {
                             <span className="material-symbols-outlined text-[16px]">dataset</span>
                         </div>
                         <span className="text-sm font-semibold text-gray-300">Mapping Tree</span>
-                        <span className="text-sm text-gray-600 ml-2">© 2024</span>
+                        <span className="text-sm text-gray-600 ml-2">© 2026</span>
                     </div>
                     <div className="flex items-center gap-8">
                         <a className="text-gray-500 hover:text-white transition-colors text-sm" href="#">Privacy</a>
