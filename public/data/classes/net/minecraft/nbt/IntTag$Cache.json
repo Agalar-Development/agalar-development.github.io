@@ -1,0 +1,1 @@
+{"name":"IntTag$Cache","package":"net.minecraft.nbt","fqn":"net.minecraft.nbt.IntTag$Cache","type":"class","members":["private static final int HIGH;","private static final int LOW;","static final net.minecraft.nbt.IntTag[] cache;","private net.minecraft.nbt.IntTag$Cache();","static {};"],"references":["net.minecraft.nbt.IntTag"],"usages":[]}

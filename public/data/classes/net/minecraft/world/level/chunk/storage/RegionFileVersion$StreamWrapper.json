@@ -1,0 +1,1 @@
+{"name":"RegionFileVersion$StreamWrapper","package":"net.minecraft.world.level.chunk.storage","fqn":"net.minecraft.world.level.chunk.storage.RegionFileVersion$StreamWrapper","type":"interface","members":["public abstract O wrap(O) throws java.io.IOException;"],"references":[],"usages":[]}

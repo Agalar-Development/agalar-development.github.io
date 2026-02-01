@@ -1,0 +1,1 @@
+{"name":"BlendingData$BiomeConsumer","package":"net.minecraft.world.level.levelgen.blending","fqn":"net.minecraft.world.level.levelgen.blending.BlendingData$BiomeConsumer","type":"interface","members":["public abstract void consume(int, int, net.minecraft.core.Holder<net.minecraft.world.level.biome.Biome>);"],"references":[],"usages":[]}

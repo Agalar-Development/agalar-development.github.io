@@ -1,0 +1,1 @@
+{"name":"SuppressForbidden","package":"net.minecraft","fqn":"net.minecraft.SuppressForbidden","type":"interface","members":["public abstract java.lang.String reason();"],"references":[],"usages":[]}

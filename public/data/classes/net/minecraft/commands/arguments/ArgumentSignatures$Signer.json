@@ -1,0 +1,1 @@
+{"name":"ArgumentSignatures$Signer","package":"net.minecraft.commands.arguments","fqn":"net.minecraft.commands.arguments.ArgumentSignatures$Signer","type":"interface","members":["public abstract net.minecraft.network.chat.MessageSignature sign(java.lang.String);"],"references":[],"usages":[]}

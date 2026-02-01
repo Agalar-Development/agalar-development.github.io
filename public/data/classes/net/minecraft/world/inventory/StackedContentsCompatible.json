@@ -1,0 +1,1 @@
+{"name":"StackedContentsCompatible","package":"net.minecraft.world.inventory","fqn":"net.minecraft.world.inventory.StackedContentsCompatible","type":"interface","members":["public abstract void fillStackedContents(net.minecraft.world.entity.player.StackedItemContents);"],"references":[],"usages":["net.minecraft.world.inventory.AbstractFurnaceMenu"]}

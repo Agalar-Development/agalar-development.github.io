@@ -1,0 +1,1 @@
+{"name":"ChunkScanAccess","package":"net.minecraft.world.level.chunk.storage","fqn":"net.minecraft.world.level.chunk.storage.ChunkScanAccess","type":"interface","members":["public abstract java.util.concurrent.CompletableFuture<java.lang.Void> scanChunk(net.minecraft.world.level.ChunkPos, net.minecraft.nbt.StreamTagVisitor);"],"references":[],"usages":[]}

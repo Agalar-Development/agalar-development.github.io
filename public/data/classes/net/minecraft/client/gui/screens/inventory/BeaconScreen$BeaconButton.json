@@ -1,0 +1,1 @@
+{"name":"BeaconScreen$BeaconButton","package":"net.minecraft.client.gui.screens.inventory","fqn":"net.minecraft.client.gui.screens.inventory.BeaconScreen$BeaconButton","type":"interface","members":["public abstract void updateStatus(int);"],"references":[],"usages":["net.minecraft.client.gui.screens.inventory.BeaconScreen"]}

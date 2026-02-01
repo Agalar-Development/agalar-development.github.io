@@ -1,0 +1,1 @@
+{"name":"ChatScreen$ChatConstructor","package":"net.minecraft.client.gui.screens","fqn":"net.minecraft.client.gui.screens.ChatScreen$ChatConstructor","type":"interface","members":["public abstract T create(java.lang.String, boolean);"],"references":[],"usages":[]}

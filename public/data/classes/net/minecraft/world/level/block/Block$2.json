@@ -1,0 +1,1 @@
+{"name":"Block$2","package":"net.minecraft.world.level.block","fqn":"net.minecraft.world.level.block.Block$2","type":"class","members":["net.minecraft.world.level.block.Block$2(int, float);","protected void rehash(int);"],"references":["it.unimi.dsi.fastutil.objects.Object2ByteLinkedOpenHashMap"],"usages":["net.minecraft.world.level.block.Block"]}

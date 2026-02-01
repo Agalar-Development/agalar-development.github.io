@@ -1,0 +1,1 @@
+{"name":"StackedContents$IngredientInfo","package":"net.minecraft.world.entity.player","fqn":"net.minecraft.world.entity.player.StackedContents$IngredientInfo","type":"interface","members":["public abstract boolean acceptsItem(T);"],"references":[],"usages":["net.minecraft.world.entity.player.StackedContents$RecipePicker","net.minecraft.world.entity.player.StackedContents"]}

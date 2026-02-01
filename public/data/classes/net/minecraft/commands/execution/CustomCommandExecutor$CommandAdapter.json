@@ -1,0 +1,1 @@
+{"name":"CustomCommandExecutor$CommandAdapter","package":"net.minecraft.commands.execution","fqn":"net.minecraft.commands.execution.CustomCommandExecutor$CommandAdapter","type":"interface","members":["public default int run(com.mojang.brigadier.context.CommandContext<T>) throws com.mojang.brigadier.exceptions.CommandSyntaxException;"],"references":[],"usages":[]}

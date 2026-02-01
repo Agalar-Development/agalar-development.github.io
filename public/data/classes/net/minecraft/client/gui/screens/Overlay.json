@@ -1,0 +1,1 @@
+{"name":"Overlay","package":"net.minecraft.client.gui.screens","fqn":"net.minecraft.client.gui.screens.Overlay","type":"class","members":["public net.minecraft.client.gui.screens.Overlay();","public boolean isPauseScreen();","public void tick();"],"references":[],"usages":["net.minecraft.client.gui.screens.LoadingOverlay"]}

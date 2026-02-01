@@ -1,0 +1,1 @@
+{"name":"DependencySorter$Entry","package":"net.minecraft.util","fqn":"net.minecraft.util.DependencySorter$Entry","type":"interface","members":["public abstract void visitRequiredDependencies(java.util.function.Consumer<K>);","public abstract void visitOptionalDependencies(java.util.function.Consumer<K>);"],"references":[],"usages":["net.minecraft.util.DependencySorter"]}

@@ -1,0 +1,1 @@
+{"name":"RecipeManager$CachedCheck","package":"net.minecraft.world.item.crafting","fqn":"net.minecraft.world.item.crafting.RecipeManager$CachedCheck","type":"interface","members":["public abstract java.util.Optional<net.minecraft.world.item.crafting.RecipeHolder<T>> getRecipeFor(I, net.minecraft.server.level.ServerLevel);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"CubicSpline$CoordinateVisitor","package":"net.minecraft.util","fqn":"net.minecraft.util.CubicSpline$CoordinateVisitor","type":"interface","members":["public abstract I visit(I);"],"references":[],"usages":[]}

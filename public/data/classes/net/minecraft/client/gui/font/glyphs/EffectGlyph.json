@@ -1,0 +1,1 @@
+{"name":"EffectGlyph","package":"net.minecraft.client.gui.font.glyphs","fqn":"net.minecraft.client.gui.font.glyphs.EffectGlyph","type":"interface","members":["public abstract net.minecraft.client.gui.font.TextRenderable createEffect(float, float, float, float, float, int, int, float);"],"references":[],"usages":["net.minecraft.client.gui.font.FontSet"]}

@@ -1,0 +1,1 @@
+{"name":"Blender$CellValueGetter","package":"net.minecraft.world.level.levelgen.blending","fqn":"net.minecraft.world.level.levelgen.blending.Blender$CellValueGetter","type":"interface","members":["public abstract double get(net.minecraft.world.level.levelgen.blending.BlendingData, int, int, int);"],"references":[],"usages":[]}

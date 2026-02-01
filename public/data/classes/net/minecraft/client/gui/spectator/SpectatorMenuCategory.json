@@ -1,0 +1,1 @@
+{"name":"SpectatorMenuCategory","package":"net.minecraft.client.gui.spectator","fqn":"net.minecraft.client.gui.spectator.SpectatorMenuCategory","type":"interface","members":["public abstract java.util.List<net.minecraft.client.gui.spectator.SpectatorMenuItem> getItems();","public abstract net.minecraft.network.chat.Component getPrompt();"],"references":[],"usages":[]}

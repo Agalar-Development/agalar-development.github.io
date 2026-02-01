@@ -1,0 +1,1 @@
+{"name":"StaticCache2D$Initializer","package":"net.minecraft.util","fqn":"net.minecraft.util.StaticCache2D$Initializer","type":"interface","members":["public abstract T get(int, int);"],"references":[],"usages":[]}

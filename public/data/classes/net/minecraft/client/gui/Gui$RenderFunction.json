@@ -1,0 +1,1 @@
+{"name":"Gui$RenderFunction","package":"net.minecraft.client.gui","fqn":"net.minecraft.client.gui.Gui$RenderFunction","type":"interface","members":["public abstract void render(net.minecraft.client.gui.GuiGraphics, net.minecraft.client.DeltaTracker);"],"references":[],"usages":[]}

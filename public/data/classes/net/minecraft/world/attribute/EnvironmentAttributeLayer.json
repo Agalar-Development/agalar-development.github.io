@@ -1,0 +1,1 @@
+{"name":"EnvironmentAttributeLayer","package":"net.minecraft.world.attribute","fqn":"net.minecraft.world.attribute.EnvironmentAttributeLayer","type":"interface","members":[],"references":[],"usages":["net.minecraft.world.attribute.EnvironmentAttributeSystem$ValueSampler"]}

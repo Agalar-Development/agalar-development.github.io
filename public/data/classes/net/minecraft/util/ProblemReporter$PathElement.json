@@ -1,0 +1,1 @@
+{"name":"ProblemReporter$PathElement","package":"net.minecraft.util","fqn":"net.minecraft.util.ProblemReporter$PathElement","type":"interface","members":["public abstract java.lang.String get();"],"references":[],"usages":["net.minecraft.util.ProblemReporter$Collector"]}

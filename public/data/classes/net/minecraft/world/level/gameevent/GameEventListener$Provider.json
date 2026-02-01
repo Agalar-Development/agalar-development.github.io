@@ -1,0 +1,1 @@
+{"name":"GameEventListener$Provider","package":"net.minecraft.world.level.gameevent","fqn":"net.minecraft.world.level.gameevent.GameEventListener$Provider","type":"interface","members":["public abstract T getListener();"],"references":[],"usages":["net.minecraft.world.level.block.EntityBlock"]}

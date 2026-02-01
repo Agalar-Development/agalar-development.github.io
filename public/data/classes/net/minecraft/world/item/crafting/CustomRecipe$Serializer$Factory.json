@@ -1,0 +1,1 @@
+{"name":"CustomRecipe$Serializer$Factory","package":"net.minecraft.world.item.crafting","fqn":"net.minecraft.world.item.crafting.CustomRecipe$Serializer$Factory","type":"interface","members":["public abstract T create(net.minecraft.world.item.crafting.CraftingBookCategory);"],"references":[],"usages":[]}

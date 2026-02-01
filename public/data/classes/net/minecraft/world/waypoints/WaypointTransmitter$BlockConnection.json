@@ -1,0 +1,1 @@
+{"name":"WaypointTransmitter$BlockConnection","package":"net.minecraft.world.waypoints","fqn":"net.minecraft.world.waypoints.WaypointTransmitter$BlockConnection","type":"interface","members":["public abstract int distanceManhattan();","public default boolean isBroken();"],"references":[],"usages":[]}

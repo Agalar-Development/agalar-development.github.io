@@ -1,0 +1,1 @@
+{"name":"StackedContents$Output","package":"net.minecraft.world.entity.player","fqn":"net.minecraft.world.entity.player.StackedContents$Output","type":"interface","members":["public abstract void accept(T);"],"references":[],"usages":[]}

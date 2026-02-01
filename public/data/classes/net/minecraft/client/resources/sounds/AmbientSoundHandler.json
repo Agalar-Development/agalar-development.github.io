@@ -1,0 +1,1 @@
+{"name":"AmbientSoundHandler","package":"net.minecraft.client.resources.sounds","fqn":"net.minecraft.client.resources.sounds.AmbientSoundHandler","type":"interface","members":["public abstract void tick();"],"references":[],"usages":["net.minecraft.client.player.LocalPlayer"]}

@@ -1,0 +1,1 @@
+{"name":"ProfilerMeasured","package":"net.minecraft.util.profiling.metrics","fqn":"net.minecraft.util.profiling.metrics.ProfilerMeasured","type":"interface","members":["public abstract java.util.List<net.minecraft.util.profiling.metrics.MetricSampler> profiledMetrics();"],"references":[],"usages":[]}

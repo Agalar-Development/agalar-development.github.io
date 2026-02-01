@@ -1,0 +1,1 @@
+{"name":"DoubleBlockCombiner$NeighborCombineResult","package":"net.minecraft.world.level.block","fqn":"net.minecraft.world.level.block.DoubleBlockCombiner$NeighborCombineResult","type":"interface","members":["public abstract <T> T apply(net.minecraft.world.level.block.DoubleBlockCombiner$Combiner<? super S, T>);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"Stitcher$Entry","package":"net.minecraft.client.renderer.texture","fqn":"net.minecraft.client.renderer.texture.Stitcher$Entry","type":"interface","members":["public abstract int width();","public abstract int height();","public abstract net.minecraft.resources.Identifier name();"],"references":[],"usages":[]}

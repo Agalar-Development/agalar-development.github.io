@@ -1,0 +1,1 @@
+{"name":"BlockBehaviour$StatePredicate","package":"net.minecraft.world.level.block.state","fqn":"net.minecraft.world.level.block.state.BlockBehaviour$StatePredicate","type":"interface","members":["public abstract boolean test(net.minecraft.world.level.block.state.BlockState, net.minecraft.world.level.BlockGetter, net.minecraft.core.BlockPos);"],"references":[],"usages":[]}

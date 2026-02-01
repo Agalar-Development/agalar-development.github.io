@@ -1,0 +1,1 @@
+{"name":"CommandSigningContext$1","package":"net.minecraft.commands","fqn":"net.minecraft.commands.CommandSigningContext$1","type":"class","members":["net.minecraft.commands.CommandSigningContext$1();","public net.minecraft.network.chat.PlayerChatMessage getArgument(java.lang.String);"],"references":[],"usages":["net.minecraft.commands.CommandSigningContext"]}

@@ -1,0 +1,1 @@
+{"name":"Aquifer$FluidPicker","package":"net.minecraft.world.level.levelgen","fqn":"net.minecraft.world.level.levelgen.Aquifer$FluidPicker","type":"interface","members":["public abstract net.minecraft.world.level.levelgen.Aquifer$FluidStatus computeFluid(int, int, int);"],"references":[],"usages":["net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator"]}

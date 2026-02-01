@@ -1,0 +1,1 @@
+{"name":"BiomeResolver","package":"net.minecraft.world.level.biome","fqn":"net.minecraft.world.level.biome.BiomeResolver","type":"interface","members":["public abstract net.minecraft.core.Holder<net.minecraft.world.level.biome.Biome> getNoiseBiome(int, int, int, net.minecraft.world.level.biome.Climate$Sampler);"],"references":[],"usages":[]}

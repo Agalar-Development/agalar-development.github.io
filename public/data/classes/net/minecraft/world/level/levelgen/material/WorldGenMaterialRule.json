@@ -1,0 +1,1 @@
+{"name":"WorldGenMaterialRule","package":"net.minecraft.world.level.levelgen.material","fqn":"net.minecraft.world.level.levelgen.material.WorldGenMaterialRule","type":"interface","members":["public abstract net.minecraft.world.level.block.state.BlockState apply(net.minecraft.world.level.levelgen.NoiseChunk, int, int, int);"],"references":[],"usages":[]}

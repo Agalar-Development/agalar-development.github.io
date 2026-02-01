@@ -1,0 +1,1 @@
+{"name":"EncodeJsonRpcException","package":"net.minecraft.server.jsonrpc.methods","fqn":"net.minecraft.server.jsonrpc.methods.EncodeJsonRpcException","type":"class","members":["public net.minecraft.server.jsonrpc.methods.EncodeJsonRpcException(java.lang.String);"],"references":[],"usages":[]}

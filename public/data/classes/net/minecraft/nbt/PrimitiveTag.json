@@ -1,0 +1,1 @@
+{"name":"PrimitiveTag","package":"net.minecraft.nbt","fqn":"net.minecraft.nbt.PrimitiveTag","type":"interface","members":["public default net.minecraft.nbt.Tag copy();"],"references":[],"usages":["net.minecraft.server.commands.data.DataCommands","net.minecraft.nbt.NbtUtils"]}

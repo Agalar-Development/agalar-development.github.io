@@ -1,0 +1,1 @@
+{"name":"StructureTemplateManager$InputStreamOpener","package":"net.minecraft.world.level.levelgen.structure.templatesystem","fqn":"net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager$InputStreamOpener","type":"interface","members":["public abstract java.io.InputStream open() throws java.io.IOException;"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"SignatureUpdater$Output","package":"net.minecraft.util","fqn":"net.minecraft.util.SignatureUpdater$Output","type":"interface","members":["public abstract void update(byte[]) throws java.security.SignatureException;"],"references":[],"usages":[]}

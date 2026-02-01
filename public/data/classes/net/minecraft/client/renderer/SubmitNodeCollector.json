@@ -1,0 +1,1 @@
+{"name":"SubmitNodeCollector","package":"net.minecraft.client.renderer","fqn":"net.minecraft.client.renderer.SubmitNodeCollector","type":"interface","members":["public abstract net.minecraft.client.renderer.OrderedSubmitNodeCollector order(int);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"LinearCongruentialGenerator","package":"net.minecraft.util","fqn":"net.minecraft.util.LinearCongruentialGenerator","type":"class","members":["private static final long MULTIPLIER;","private static final long INCREMENT;","public net.minecraft.util.LinearCongruentialGenerator();","public static long next(long, long);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"Commands$ParseFunction","package":"net.minecraft.commands","fqn":"net.minecraft.commands.Commands$ParseFunction","type":"interface","members":["public abstract void parse(com.mojang.brigadier.StringReader) throws com.mojang.brigadier.exceptions.CommandSyntaxException;"],"references":[],"usages":[]}

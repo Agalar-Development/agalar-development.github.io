@@ -1,0 +1,1 @@
+{"name":"ClientAsset","package":"net.minecraft.core","fqn":"net.minecraft.core.ClientAsset","type":"interface","members":["public abstract net.minecraft.resources.Identifier id();"],"references":[],"usages":[]}

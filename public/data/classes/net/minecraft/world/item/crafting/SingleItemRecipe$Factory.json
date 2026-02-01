@@ -1,0 +1,1 @@
+{"name":"SingleItemRecipe$Factory","package":"net.minecraft.world.item.crafting","fqn":"net.minecraft.world.item.crafting.SingleItemRecipe$Factory","type":"interface","members":["public abstract T create(java.lang.String, net.minecraft.world.item.crafting.Ingredient, net.minecraft.world.item.ItemStack);"],"references":[],"usages":[]}

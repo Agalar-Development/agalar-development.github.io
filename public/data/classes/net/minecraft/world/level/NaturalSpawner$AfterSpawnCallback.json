@@ -1,0 +1,1 @@
+{"name":"NaturalSpawner$AfterSpawnCallback","package":"net.minecraft.world.level","fqn":"net.minecraft.world.level.NaturalSpawner$AfterSpawnCallback","type":"interface","members":["public abstract void run(net.minecraft.world.entity.Mob, net.minecraft.world.level.chunk.ChunkAccess);"],"references":[],"usages":[]}

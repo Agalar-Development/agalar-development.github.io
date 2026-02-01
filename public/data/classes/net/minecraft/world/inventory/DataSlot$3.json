@@ -1,0 +1,1 @@
+{"name":"DataSlot$3","package":"net.minecraft.world.inventory","fqn":"net.minecraft.world.inventory.DataSlot$3","type":"class","members":["private int value;","net.minecraft.world.inventory.DataSlot$3();","public int get();","public void set(int);"],"references":["net.minecraft.world.inventory.DataSlot"],"usages":["net.minecraft.world.inventory.DataSlot"]}

@@ -1,0 +1,1 @@
+{"name":"VertexSorting$DistanceFunction","package":"com.mojang.blaze3d.vertex","fqn":"com.mojang.blaze3d.vertex.VertexSorting$DistanceFunction","type":"interface","members":["public abstract float apply(org.joml.Vector3f);"],"references":[],"usages":[]}

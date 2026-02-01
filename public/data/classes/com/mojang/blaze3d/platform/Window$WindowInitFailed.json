@@ -1,0 +1,1 @@
+{"name":"Window$WindowInitFailed","package":"com.mojang.blaze3d.platform","fqn":"com.mojang.blaze3d.platform.Window$WindowInitFailed","type":"class","members":["private com.mojang.blaze3d.platform.Window$WindowInitFailed(java.lang.String);"],"references":["net.minecraft.client.main.SilentInitException"],"usages":["com.mojang.blaze3d.platform.Window"]}

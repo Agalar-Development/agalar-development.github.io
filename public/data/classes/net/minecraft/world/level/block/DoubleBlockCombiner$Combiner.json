@@ -1,0 +1,1 @@
+{"name":"DoubleBlockCombiner$Combiner","package":"net.minecraft.world.level.block","fqn":"net.minecraft.world.level.block.DoubleBlockCombiner$Combiner","type":"interface","members":["public abstract T acceptDouble(S, S);","public abstract T acceptSingle(S);","public abstract T acceptNone();"],"references":[],"usages":[]}

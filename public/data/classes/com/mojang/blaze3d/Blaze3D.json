@@ -1,0 +1,1 @@
+{"name":"Blaze3D","package":"com.mojang.blaze3d","fqn":"com.mojang.blaze3d.Blaze3D","type":"class","members":["public static void youJustLostTheGame();","public static double getTime();","private com.mojang.blaze3d.Blaze3D();"],"references":["org.lwjgl.system.MemoryUtil.memSet","org.lwjgl.glfw.GLFW.glfwGetTime"],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"DiscreteVoxelShape$IntFaceConsumer","package":"net.minecraft.world.phys.shapes","fqn":"net.minecraft.world.phys.shapes.DiscreteVoxelShape$IntFaceConsumer","type":"interface","members":["public abstract void consume(net.minecraft.core.Direction, int, int, int);"],"references":[],"usages":[]}

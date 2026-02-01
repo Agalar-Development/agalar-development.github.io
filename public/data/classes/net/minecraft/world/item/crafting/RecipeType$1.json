@@ -1,0 +1,1 @@
+{"name":"RecipeType$1","package":"net.minecraft.world.item.crafting","fqn":"net.minecraft.world.item.crafting.RecipeType$1","type":"class","members":["final java.lang.String val$name;","net.minecraft.world.item.crafting.RecipeType$1();","public java.lang.String toString();"],"references":[],"usages":["net.minecraft.world.item.crafting.RecipeType"]}

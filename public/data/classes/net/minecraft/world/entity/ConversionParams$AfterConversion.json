@@ -1,0 +1,1 @@
+{"name":"ConversionParams$AfterConversion","package":"net.minecraft.world.entity","fqn":"net.minecraft.world.entity.ConversionParams$AfterConversion","type":"interface","members":["public abstract void finalizeConversion(T);"],"references":[],"usages":[]}

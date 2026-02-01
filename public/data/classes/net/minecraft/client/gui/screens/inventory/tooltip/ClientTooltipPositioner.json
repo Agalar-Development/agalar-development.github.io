@@ -1,0 +1,1 @@
+{"name":"ClientTooltipPositioner","package":"net.minecraft.client.gui.screens.inventory.tooltip","fqn":"net.minecraft.client.gui.screens.inventory.tooltip.ClientTooltipPositioner","type":"interface","members":["public abstract org.joml.Vector2ic positionTooltip(int, int, int, int, int, int);"],"references":[],"usages":[]}

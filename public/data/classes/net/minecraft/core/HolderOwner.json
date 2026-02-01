@@ -1,0 +1,1 @@
+{"name":"HolderOwner","package":"net.minecraft.core","fqn":"net.minecraft.core.HolderOwner","type":"interface","members":["public default boolean canSerializeIn(net.minecraft.core.HolderOwner<T>);"],"references":[],"usages":["net.minecraft.resources.HolderSetCodec","net.minecraft.resources.RegistryFileCodec","net.minecraft.resources.RegistryFixedCodec"]}

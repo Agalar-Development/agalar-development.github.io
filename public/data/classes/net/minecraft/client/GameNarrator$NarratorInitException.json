@@ -1,0 +1,1 @@
+{"name":"GameNarrator$NarratorInitException","package":"net.minecraft.client","fqn":"net.minecraft.client.GameNarrator$NarratorInitException","type":"class","members":["public net.minecraft.client.GameNarrator$NarratorInitException(java.lang.String);"],"references":["net.minecraft.client.main.SilentInitException"],"usages":["net.minecraft.client.GameNarrator"]}

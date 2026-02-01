@@ -1,0 +1,1 @@
+{"name":"ValueOutput$ValueOutputList","package":"net.minecraft.world.level.storage","fqn":"net.minecraft.world.level.storage.ValueOutput$ValueOutputList","type":"interface","members":["public abstract net.minecraft.world.level.storage.ValueOutput addChild();","public abstract void discardLast();","public abstract boolean isEmpty();"],"references":[],"usages":[]}

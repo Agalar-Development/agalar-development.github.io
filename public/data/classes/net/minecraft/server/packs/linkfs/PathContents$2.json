@@ -1,0 +1,1 @@
+{"name":"PathContents$2","package":"net.minecraft.server.packs.linkfs","fqn":"net.minecraft.server.packs.linkfs.PathContents$2","type":"class","members":["net.minecraft.server.packs.linkfs.PathContents$2();","public java.lang.String toString();"],"references":[],"usages":["net.minecraft.server.packs.linkfs.PathContents"]}

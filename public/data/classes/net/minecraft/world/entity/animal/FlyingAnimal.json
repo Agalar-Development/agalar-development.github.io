@@ -1,0 +1,1 @@
+{"name":"FlyingAnimal","package":"net.minecraft.world.entity.animal","fqn":"net.minecraft.world.entity.animal.FlyingAnimal","type":"interface","members":["public abstract boolean isFlying();"],"references":[],"usages":["net.minecraft.world.entity.LivingEntity"]}

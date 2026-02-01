@@ -1,0 +1,1 @@
+{"name":"FormattedText$StyledContentConsumer","package":"net.minecraft.network.chat","fqn":"net.minecraft.network.chat.FormattedText$StyledContentConsumer","type":"interface","members":["public abstract java.util.Optional<T> accept(net.minecraft.network.chat.Style, java.lang.String);"],"references":[],"usages":[]}

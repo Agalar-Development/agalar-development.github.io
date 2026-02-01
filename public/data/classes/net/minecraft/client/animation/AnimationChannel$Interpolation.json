@@ -1,0 +1,1 @@
+{"name":"AnimationChannel$Interpolation","package":"net.minecraft.client.animation","fqn":"net.minecraft.client.animation.AnimationChannel$Interpolation","type":"interface","members":["public abstract org.joml.Vector3f apply(org.joml.Vector3f, float, net.minecraft.client.animation.Keyframe[], int, int, float);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"SpecialGlyphs$PixelProvider","package":"net.minecraft.client.gui.font.glyphs","fqn":"net.minecraft.client.gui.font.glyphs.SpecialGlyphs$PixelProvider","type":"interface","members":["public abstract int getColor(int, int);"],"references":[],"usages":[]}

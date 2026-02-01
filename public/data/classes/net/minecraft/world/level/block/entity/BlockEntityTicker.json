@@ -1,0 +1,1 @@
+{"name":"BlockEntityTicker","package":"net.minecraft.world.level.block.entity","fqn":"net.minecraft.world.level.block.entity.BlockEntityTicker","type":"interface","members":["public abstract void tick(net.minecraft.world.level.Level, net.minecraft.core.BlockPos, net.minecraft.world.level.block.state.BlockState, T);"],"references":[],"usages":[]}

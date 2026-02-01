@@ -1,0 +1,1 @@
+{"name":"ResolvableModel","package":"net.minecraft.client.resources.model","fqn":"net.minecraft.client.resources.model.ResolvableModel","type":"interface","members":["public abstract void resolveDependencies(net.minecraft.client.resources.model.ResolvableModel$Resolver);"],"references":[],"usages":[]}

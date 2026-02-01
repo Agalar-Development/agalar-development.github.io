@@ -1,0 +1,1 @@
+{"name":"GameEventListenerRenderer$ListenerVisitor","package":"net.minecraft.client.renderer.debug","fqn":"net.minecraft.client.renderer.debug.GameEventListenerRenderer$ListenerVisitor","type":"interface","members":["public abstract void accept(net.minecraft.world.phys.Vec3, int);"],"references":[],"usages":[]}

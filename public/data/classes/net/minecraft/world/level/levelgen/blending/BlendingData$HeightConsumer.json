@@ -1,0 +1,1 @@
+{"name":"BlendingData$HeightConsumer","package":"net.minecraft.world.level.levelgen.blending","fqn":"net.minecraft.world.level.levelgen.blending.BlendingData$HeightConsumer","type":"interface","members":["public abstract void consume(int, int, double);"],"references":[],"usages":[]}

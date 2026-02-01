@@ -1,0 +1,1 @@
+{"name":"ChatReportContextBuilder$Handler","package":"net.minecraft.client.multiplayer.chat.report","fqn":"net.minecraft.client.multiplayer.chat.report.ChatReportContextBuilder$Handler","type":"interface","members":["public abstract void accept(int, net.minecraft.client.multiplayer.chat.LoggedChatMessage$Player);"],"references":[],"usages":[]}

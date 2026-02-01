@@ -1,0 +1,1 @@
+{"name":"InCommandFunction","package":"net.minecraft.server.commands","fqn":"net.minecraft.server.commands.InCommandFunction","type":"interface","members":["public abstract R apply(T) throws com.mojang.brigadier.exceptions.CommandSyntaxException;"],"references":[],"usages":[]}

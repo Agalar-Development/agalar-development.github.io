@@ -1,0 +1,1 @@
+{"name":"FunctionCommand$Callbacks","package":"net.minecraft.server.commands","fqn":"net.minecraft.server.commands.FunctionCommand$Callbacks","type":"interface","members":["public abstract void signalResult(T, net.minecraft.resources.Identifier, int);"],"references":[],"usages":[]}

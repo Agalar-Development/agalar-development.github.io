@@ -1,0 +1,1 @@
+{"name":"TickAccess","package":"net.minecraft.world.ticks","fqn":"net.minecraft.world.ticks.TickAccess","type":"interface","members":["public abstract void schedule(net.minecraft.world.ticks.ScheduledTick<T>);","public abstract boolean hasScheduledTick(net.minecraft.core.BlockPos, T);","public abstract int count();"],"references":[],"usages":[]}

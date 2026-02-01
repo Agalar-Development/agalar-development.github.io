@@ -1,0 +1,1 @@
+{"name":"IndexMerger$IndexConsumer","package":"net.minecraft.world.phys.shapes","fqn":"net.minecraft.world.phys.shapes.IndexMerger$IndexConsumer","type":"interface","members":["public abstract boolean merge(int, int, int);"],"references":[],"usages":[]}

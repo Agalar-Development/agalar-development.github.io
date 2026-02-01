@@ -1,0 +1,1 @@
+{"name":"GlslPreprocessor$Context","package":"com.mojang.blaze3d.preprocessor","fqn":"com.mojang.blaze3d.preprocessor.GlslPreprocessor$Context","type":"class","members":["private int glslVersion;","private int sourceId;","private com.mojang.blaze3d.preprocessor.GlslPreprocessor$Context();"],"references":[],"usages":["com.mojang.blaze3d.preprocessor.GlslPreprocessor"]}

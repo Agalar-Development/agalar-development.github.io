@@ -1,0 +1,1 @@
+{"name":"AudioStream","package":"net.minecraft.client.sounds","fqn":"net.minecraft.client.sounds.AudioStream","type":"interface","members":["public abstract javax.sound.sampled.AudioFormat getFormat();","public abstract java.nio.ByteBuffer read(int) throws java.io.IOException;"],"references":[],"usages":[]}

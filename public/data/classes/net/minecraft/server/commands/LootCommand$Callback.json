@@ -1,0 +1,1 @@
+{"name":"LootCommand$Callback","package":"net.minecraft.server.commands","fqn":"net.minecraft.server.commands.LootCommand$Callback","type":"interface","members":["public abstract void accept(java.util.List<net.minecraft.world.item.ItemStack>) throws com.mojang.brigadier.exceptions.CommandSyntaxException;"],"references":[],"usages":[]}

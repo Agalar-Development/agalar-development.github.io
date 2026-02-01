@@ -1,0 +1,1 @@
+{"name":"Options$OptionAccess","package":"net.minecraft.client","fqn":"net.minecraft.client.Options$OptionAccess","type":"interface","members":["public abstract <T> void process(java.lang.String, net.minecraft.client.OptionInstance<T>);"],"references":[],"usages":[]}

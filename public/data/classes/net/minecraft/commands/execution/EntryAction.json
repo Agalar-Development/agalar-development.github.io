@@ -1,0 +1,1 @@
+{"name":"EntryAction","package":"net.minecraft.commands.execution","fqn":"net.minecraft.commands.execution.EntryAction","type":"interface","members":["public abstract void execute(net.minecraft.commands.execution.ExecutionContext<T>, net.minecraft.commands.execution.Frame);"],"references":[],"usages":[]}

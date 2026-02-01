@@ -1,0 +1,1 @@
+{"name":"RealmsClientConfig","package":"com.mojang.realmsclient.client","fqn":"com.mojang.realmsclient.client.RealmsClientConfig","type":"class","members":["private static java.net.Proxy proxy;","public com.mojang.realmsclient.client.RealmsClientConfig();","public static java.net.Proxy getProxy();","public static void setProxy(java.net.Proxy);"],"references":[],"usages":[]}

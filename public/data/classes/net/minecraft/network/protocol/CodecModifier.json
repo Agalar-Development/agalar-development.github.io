@@ -1,0 +1,1 @@
+{"name":"CodecModifier","package":"net.minecraft.network.protocol","fqn":"net.minecraft.network.protocol.CodecModifier","type":"interface","members":["public abstract net.minecraft.network.codec.StreamCodec<? super B, V> apply(net.minecraft.network.codec.StreamCodec<? super B, V>, C);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"CarvingMask$Mask","package":"net.minecraft.world.level.chunk","fqn":"net.minecraft.world.level.chunk.CarvingMask$Mask","type":"interface","members":["public abstract boolean test(int, int, int);"],"references":[],"usages":[]}

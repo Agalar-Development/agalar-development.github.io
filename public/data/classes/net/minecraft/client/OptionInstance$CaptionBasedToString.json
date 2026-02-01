@@ -1,0 +1,1 @@
+{"name":"OptionInstance$CaptionBasedToString","package":"net.minecraft.client","fqn":"net.minecraft.client.OptionInstance$CaptionBasedToString","type":"interface","members":["public abstract net.minecraft.network.chat.Component toString(net.minecraft.network.chat.Component, T);"],"references":[],"usages":[]}

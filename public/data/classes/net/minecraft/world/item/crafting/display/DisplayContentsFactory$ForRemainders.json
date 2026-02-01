@@ -1,0 +1,1 @@
+{"name":"DisplayContentsFactory$ForRemainders","package":"net.minecraft.world.item.crafting.display","fqn":"net.minecraft.world.item.crafting.display.DisplayContentsFactory$ForRemainders","type":"interface","members":["public abstract T addRemainder(T, java.util.List<T>);"],"references":[],"usages":["net.minecraft.world.item.crafting.display.SlotDisplay$WithRemainder"]}

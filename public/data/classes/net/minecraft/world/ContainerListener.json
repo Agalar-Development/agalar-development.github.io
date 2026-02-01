@@ -1,0 +1,1 @@
+{"name":"ContainerListener","package":"net.minecraft.world","fqn":"net.minecraft.world.ContainerListener","type":"interface","members":["public abstract void containerChanged(net.minecraft.world.Container);"],"references":[],"usages":["net.minecraft.world.SimpleContainer"]}

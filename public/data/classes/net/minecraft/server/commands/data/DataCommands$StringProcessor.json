@@ -1,0 +1,1 @@
+{"name":"DataCommands$StringProcessor","package":"net.minecraft.server.commands.data","fqn":"net.minecraft.server.commands.data.DataCommands$StringProcessor","type":"interface","members":["public abstract java.lang.String process(java.lang.String) throws com.mojang.brigadier.exceptions.CommandSyntaxException;"],"references":[],"usages":[]}

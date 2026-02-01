@@ -1,0 +1,1 @@
+{"name":"StreamCodec$CodecOperation","package":"net.minecraft.network.codec","fqn":"net.minecraft.network.codec.StreamCodec$CodecOperation","type":"interface","members":["public abstract net.minecraft.network.codec.StreamCodec<B, T> apply(net.minecraft.network.codec.StreamCodec<B, S>);"],"references":[],"usages":[]}

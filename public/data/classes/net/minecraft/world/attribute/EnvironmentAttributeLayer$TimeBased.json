@@ -1,0 +1,1 @@
+{"name":"EnvironmentAttributeLayer$TimeBased","package":"net.minecraft.world.attribute","fqn":"net.minecraft.world.attribute.EnvironmentAttributeLayer$TimeBased","type":"interface","members":["public abstract Value applyTimeBased(Value, int);"],"references":[],"usages":["net.minecraft.world.attribute.EnvironmentAttributeSystem$ValueSampler"]}

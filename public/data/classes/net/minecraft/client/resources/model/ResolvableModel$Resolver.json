@@ -1,0 +1,1 @@
+{"name":"ResolvableModel$Resolver","package":"net.minecraft.client.resources.model","fqn":"net.minecraft.client.resources.model.ResolvableModel$Resolver","type":"interface","members":["public abstract void markDependency(net.minecraft.resources.Identifier);"],"references":[],"usages":[]}

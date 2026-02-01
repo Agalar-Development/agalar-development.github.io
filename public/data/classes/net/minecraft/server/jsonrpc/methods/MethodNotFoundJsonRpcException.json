@@ -1,0 +1,1 @@
+{"name":"MethodNotFoundJsonRpcException","package":"net.minecraft.server.jsonrpc.methods","fqn":"net.minecraft.server.jsonrpc.methods.MethodNotFoundJsonRpcException","type":"class","members":["public net.minecraft.server.jsonrpc.methods.MethodNotFoundJsonRpcException(java.lang.String);"],"references":[],"usages":["net.minecraft.server.jsonrpc.Connection"]}

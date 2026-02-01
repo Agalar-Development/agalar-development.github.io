@@ -1,0 +1,1 @@
+{"name":"PartialTickSupplier","package":"net.minecraft.world.waypoints","fqn":"net.minecraft.world.waypoints.PartialTickSupplier","type":"interface","members":["public abstract float apply(net.minecraft.world.entity.Entity);"],"references":[],"usages":[]}

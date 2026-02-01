@@ -1,0 +1,1 @@
+{"name":"RunningTrimmedMean","package":"net.minecraft.client.renderer","fqn":"net.minecraft.client.renderer.RunningTrimmedMean","type":"class","members":["private final long[] values;","private int count;","private int cursor;","public net.minecraft.client.renderer.RunningTrimmedMean(int);","public long registerValueAndGetMean(long);"],"references":[],"usages":[]}

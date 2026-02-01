@@ -1,0 +1,1 @@
+{"name":"SoundManager$1","package":"net.minecraft.client.sounds","fqn":"net.minecraft.client.sounds.SoundManager$1","type":"class","members":["net.minecraft.client.sounds.SoundManager$1();"],"references":["com.google.gson.reflect.TypeToken"],"usages":["net.minecraft.client.sounds.SoundManager"]}

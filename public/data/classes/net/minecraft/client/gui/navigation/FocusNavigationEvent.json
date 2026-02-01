@@ -1,0 +1,1 @@
+{"name":"FocusNavigationEvent","package":"net.minecraft.client.gui.navigation","fqn":"net.minecraft.client.gui.navigation.FocusNavigationEvent","type":"interface","members":["public abstract net.minecraft.client.gui.navigation.ScreenDirection getVerticalDirectionForInitialFocus();"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"TickContainerAccess","package":"net.minecraft.world.ticks","fqn":"net.minecraft.world.ticks.TickContainerAccess","type":"interface","members":[],"references":[],"usages":["net.minecraft.world.ticks.WorldGenTickAccess"]}

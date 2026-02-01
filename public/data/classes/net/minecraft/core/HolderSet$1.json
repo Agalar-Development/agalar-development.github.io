@@ -1,0 +1,1 @@
+{"name":"HolderSet$1","package":"net.minecraft.core","fqn":"net.minecraft.core.HolderSet$1","type":"class","members":["net.minecraft.core.HolderSet$1(net.minecraft.core.HolderOwner, net.minecraft.tags.TagKey);","protected java.util.List<net.minecraft.core.Holder<T>> contents();"],"references":["net.minecraft.core.HolderSet$Named"],"usages":["net.minecraft.core.HolderSet"]}

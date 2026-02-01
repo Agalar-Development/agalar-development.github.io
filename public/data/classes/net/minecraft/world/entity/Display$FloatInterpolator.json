@@ -1,0 +1,1 @@
+{"name":"Display$FloatInterpolator","package":"net.minecraft.world.entity","fqn":"net.minecraft.world.entity.Display$FloatInterpolator","type":"interface","members":["public static net.minecraft.world.entity.Display$FloatInterpolator constant(float);","public abstract float get(float);","private static float lambda$constant$0(float, float);"],"references":[],"usages":[]}

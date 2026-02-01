@@ -1,0 +1,1 @@
+{"name":"GameTestBatchListener","package":"net.minecraft.gametest.framework","fqn":"net.minecraft.gametest.framework.GameTestBatchListener","type":"interface","members":["public abstract void testBatchStarting(net.minecraft.gametest.framework.GameTestBatch);","public abstract void testBatchFinished(net.minecraft.gametest.framework.GameTestBatch);"],"references":[],"usages":[]}

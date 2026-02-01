@@ -1,0 +1,1 @@
+{"name":"WinScreen$CreditsReader","package":"net.minecraft.client.gui.screens","fqn":"net.minecraft.client.gui.screens.WinScreen$CreditsReader","type":"interface","members":["public abstract void read(java.io.Reader) throws java.io.IOException;"],"references":[],"usages":[]}

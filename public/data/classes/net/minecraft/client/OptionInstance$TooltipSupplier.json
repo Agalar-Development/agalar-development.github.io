@@ -1,0 +1,1 @@
+{"name":"OptionInstance$TooltipSupplier","package":"net.minecraft.client","fqn":"net.minecraft.client.OptionInstance$TooltipSupplier","type":"interface","members":["public abstract net.minecraft.client.gui.components.Tooltip apply(T);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"LoopingAudioStream$NoCloseBuffer","package":"net.minecraft.client.sounds","fqn":"net.minecraft.client.sounds.LoopingAudioStream$NoCloseBuffer","type":"class","members":["private net.minecraft.client.sounds.LoopingAudioStream$NoCloseBuffer(java.io.InputStream);","public void close();"],"references":[],"usages":["net.minecraft.client.sounds.LoopingAudioStream"]}

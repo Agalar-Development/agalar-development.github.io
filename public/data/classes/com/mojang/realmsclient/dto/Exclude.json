@@ -1,0 +1,1 @@
+{"name":"Exclude","package":"com.mojang.realmsclient.dto","fqn":"com.mojang.realmsclient.dto.Exclude","type":"interface","members":[],"references":[],"usages":["com.mojang.realmsclient.dto.GuardedSerializer$1"]}

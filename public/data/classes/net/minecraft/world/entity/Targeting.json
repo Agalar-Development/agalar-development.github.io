@@ -1,0 +1,1 @@
+{"name":"Targeting","package":"net.minecraft.world.entity","fqn":"net.minecraft.world.entity.Targeting","type":"interface","members":["public abstract net.minecraft.world.entity.LivingEntity getTarget();"],"references":[],"usages":["net.minecraft.server.commands.ExecuteCommand"]}

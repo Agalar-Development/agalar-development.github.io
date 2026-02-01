@@ -1,0 +1,1 @@
+{"name":"BlockPredicateArgument$Result","package":"net.minecraft.commands.arguments.blocks","fqn":"net.minecraft.commands.arguments.blocks.BlockPredicateArgument$Result","type":"interface","members":["public abstract boolean requiresNbt();"],"references":[],"usages":["net.minecraft.commands.arguments.blocks.BlockPredicateArgument"]}

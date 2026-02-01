@@ -1,0 +1,1 @@
+{"name":"GlyphProviderDefinition$Loader","package":"net.minecraft.client.gui.font.providers","fqn":"net.minecraft.client.gui.font.providers.GlyphProviderDefinition$Loader","type":"interface","members":["public abstract com.mojang.blaze3d.font.GlyphProvider load(net.minecraft.server.packs.resources.ResourceManager) throws java.io.IOException;"],"references":[],"usages":[]}

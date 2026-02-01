@@ -1,0 +1,1 @@
+{"name":"UniquelyIdentifyable","package":"net.minecraft.world.level.entity","fqn":"net.minecraft.world.level.entity.UniquelyIdentifyable","type":"interface","members":["public abstract java.util.UUID getUUID();","public abstract boolean isRemoved();"],"references":[],"usages":["net.minecraft.world.entity.EntityReference"]}

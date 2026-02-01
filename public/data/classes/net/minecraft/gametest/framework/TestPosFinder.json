@@ -1,0 +1,1 @@
+{"name":"TestPosFinder","package":"net.minecraft.gametest.framework","fqn":"net.minecraft.gametest.framework.TestPosFinder","type":"interface","members":["public abstract java.util.stream.Stream<net.minecraft.core.BlockPos> findTestPos();"],"references":[],"usages":[]}

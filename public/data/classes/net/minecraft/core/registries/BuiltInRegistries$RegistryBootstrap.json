@@ -1,0 +1,1 @@
+{"name":"BuiltInRegistries$RegistryBootstrap","package":"net.minecraft.core.registries","fqn":"net.minecraft.core.registries.BuiltInRegistries$RegistryBootstrap","type":"interface","members":["public abstract java.lang.Object run(net.minecraft.core.Registry<T>);"],"references":[],"usages":[]}

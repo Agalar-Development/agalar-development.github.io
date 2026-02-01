@@ -1,0 +1,1 @@
+{"name":"Entity$MoveFunction","package":"net.minecraft.world.entity","fqn":"net.minecraft.world.entity.Entity$MoveFunction","type":"interface","members":["public abstract void accept(net.minecraft.world.entity.Entity, double, double, double);"],"references":[],"usages":[]}

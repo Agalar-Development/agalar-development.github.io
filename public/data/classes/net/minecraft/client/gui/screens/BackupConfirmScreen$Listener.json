@@ -1,0 +1,1 @@
+{"name":"BackupConfirmScreen$Listener","package":"net.minecraft.client.gui.screens","fqn":"net.minecraft.client.gui.screens.BackupConfirmScreen$Listener","type":"interface","members":["public abstract void proceed(boolean, boolean);"],"references":[],"usages":[]}

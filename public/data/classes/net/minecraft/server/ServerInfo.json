@@ -1,0 +1,1 @@
+{"name":"ServerInfo","package":"net.minecraft.server","fqn":"net.minecraft.server.ServerInfo","type":"interface","members":["public abstract java.lang.String getMotd();","public abstract java.lang.String getServerVersion();","public abstract int getPlayerCount();","public abstract int getMaxPlayers();"],"references":[],"usages":[]}

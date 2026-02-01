@@ -1,0 +1,1 @@
+{"name":"Util$1","package":"net.minecraft.util","fqn":"net.minecraft.util.Util$1","type":"class","members":["net.minecraft.util.Util$1();","public long read();"],"references":["com.google.common.base.Ticker","net.minecraft.util.Util.timeSource","net.minecraft.util.TimeSource$NanoTimeSource.getAsLong"],"usages":["net.minecraft.util.Util"]}

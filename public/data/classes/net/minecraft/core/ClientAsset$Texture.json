@@ -1,0 +1,1 @@
+{"name":"ClientAsset$Texture","package":"net.minecraft.core","fqn":"net.minecraft.core.ClientAsset$Texture","type":"interface","members":["public abstract net.minecraft.resources.Identifier texturePath();"],"references":[],"usages":["net.minecraft.world.entity.player.PlayerSkin","net.minecraft.client.resources.SkinManager"]}

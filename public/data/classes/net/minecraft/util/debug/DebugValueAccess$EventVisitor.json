@@ -1,0 +1,1 @@
+{"name":"DebugValueAccess$EventVisitor","package":"net.minecraft.util.debug","fqn":"net.minecraft.util.debug.DebugValueAccess$EventVisitor","type":"interface","members":["public abstract void accept(T, int, int);"],"references":[],"usages":[]}

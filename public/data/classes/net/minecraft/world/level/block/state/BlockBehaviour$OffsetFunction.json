@@ -1,0 +1,1 @@
+{"name":"BlockBehaviour$OffsetFunction","package":"net.minecraft.world.level.block.state","fqn":"net.minecraft.world.level.block.state.BlockBehaviour$OffsetFunction","type":"interface","members":["public abstract net.minecraft.world.phys.Vec3 evaluate(net.minecraft.world.level.block.state.BlockState, net.minecraft.core.BlockPos);"],"references":[],"usages":[]}

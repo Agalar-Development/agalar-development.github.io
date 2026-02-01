@@ -1,0 +1,1 @@
+{"name":"ColorResolver","package":"net.minecraft.world.level","fqn":"net.minecraft.world.level.ColorResolver","type":"interface","members":["public abstract int getColor(net.minecraft.world.level.biome.Biome, double, double);"],"references":[],"usages":[]}

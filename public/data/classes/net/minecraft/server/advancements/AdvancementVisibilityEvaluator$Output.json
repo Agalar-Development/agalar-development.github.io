@@ -1,0 +1,1 @@
+{"name":"AdvancementVisibilityEvaluator$Output","package":"net.minecraft.server.advancements","fqn":"net.minecraft.server.advancements.AdvancementVisibilityEvaluator$Output","type":"interface","members":["public abstract void accept(net.minecraft.advancements.AdvancementNode, boolean);"],"references":[],"usages":[]}

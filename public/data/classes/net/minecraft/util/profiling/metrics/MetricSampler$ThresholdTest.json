@@ -1,0 +1,1 @@
+{"name":"MetricSampler$ThresholdTest","package":"net.minecraft.util.profiling.metrics","fqn":"net.minecraft.util.profiling.metrics.MetricSampler$ThresholdTest","type":"interface","members":["public abstract boolean test(double);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"BeaconBeamOwner","package":"net.minecraft.world.level.block.entity","fqn":"net.minecraft.world.level.block.entity.BeaconBeamOwner","type":"interface","members":["public abstract java.util.List<net.minecraft.world.level.block.entity.BeaconBeamOwner$Section> getBeamSections();"],"references":[],"usages":["net.minecraft.client.renderer.blockentity.BeaconRenderer"]}

@@ -1,0 +1,1 @@
+{"name":"DirectoryLock$LockException","package":"net.minecraft.util","fqn":"net.minecraft.util.DirectoryLock$LockException","type":"class","members":["private net.minecraft.util.DirectoryLock$LockException(java.nio.file.Path, java.lang.String);","public static net.minecraft.util.DirectoryLock$LockException alreadyLocked(java.nio.file.Path);"],"references":[],"usages":[]}

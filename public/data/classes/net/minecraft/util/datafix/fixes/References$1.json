@@ -1,0 +1,1 @@
+{"name":"References$1","package":"net.minecraft.util.datafix.fixes","fqn":"net.minecraft.util.datafix.fixes.References$1","type":"class","members":["final java.lang.String val$id;","net.minecraft.util.datafix.fixes.References$1();","public java.lang.String typeName();","public java.lang.String toString();"],"references":[],"usages":["net.minecraft.util.datafix.fixes.References"]}

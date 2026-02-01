@@ -1,0 +1,1 @@
+{"name":"TickableSoundInstance","package":"net.minecraft.client.resources.sounds","fqn":"net.minecraft.client.resources.sounds.TickableSoundInstance","type":"interface","members":["public abstract boolean isStopped();","public abstract void tick();"],"references":[],"usages":["net.minecraft.client.sounds.SoundEngine"]}

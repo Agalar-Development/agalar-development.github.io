@@ -1,0 +1,1 @@
+{"name":"JukeboxSongPlayer$OnSongChanged","package":"net.minecraft.world.item","fqn":"net.minecraft.world.item.JukeboxSongPlayer$OnSongChanged","type":"interface","members":["public abstract void notifyChange();"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"TrackedWaypoint$Camera","package":"net.minecraft.world.waypoints","fqn":"net.minecraft.world.waypoints.TrackedWaypoint$Camera","type":"interface","members":["public abstract float yaw();","public abstract net.minecraft.world.phys.Vec3 position();"],"references":[],"usages":[]}

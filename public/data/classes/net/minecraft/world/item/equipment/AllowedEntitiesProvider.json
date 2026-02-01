@@ -1,0 +1,1 @@
+{"name":"AllowedEntitiesProvider","package":"net.minecraft.world.item.equipment","fqn":"net.minecraft.world.item.equipment.AllowedEntitiesProvider","type":"interface","members":["public abstract net.minecraft.core.HolderSet<net.minecraft.world.entity.EntityType<?>> get(net.minecraft.core.HolderGetter<net.minecraft.world.entity.EntityType<?>>);"],"references":[],"usages":[]}

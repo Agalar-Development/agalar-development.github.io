@@ -1,0 +1,1 @@
+{"name":"CompiledRenderPipeline","package":"com.mojang.blaze3d.pipeline","fqn":"com.mojang.blaze3d.pipeline.CompiledRenderPipeline","type":"interface","members":["public abstract boolean isValid();"],"references":[],"usages":[]}

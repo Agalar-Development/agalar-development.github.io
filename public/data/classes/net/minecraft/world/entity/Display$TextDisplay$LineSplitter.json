@@ -1,0 +1,1 @@
+{"name":"Display$TextDisplay$LineSplitter","package":"net.minecraft.world.entity","fqn":"net.minecraft.world.entity.Display$TextDisplay$LineSplitter","type":"interface","members":["public abstract net.minecraft.world.entity.Display$TextDisplay$CachedInfo split(net.minecraft.network.chat.Component, int);"],"references":[],"usages":[]}

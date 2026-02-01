@@ -1,0 +1,1 @@
+{"name":"EntityRendererProvider","package":"net.minecraft.client.renderer.entity","fqn":"net.minecraft.client.renderer.entity.EntityRendererProvider","type":"interface","members":["public abstract net.minecraft.client.renderer.entity.EntityRenderer<T, ?> create(net.minecraft.client.renderer.entity.EntityRendererProvider$Context);"],"references":[],"usages":[]}

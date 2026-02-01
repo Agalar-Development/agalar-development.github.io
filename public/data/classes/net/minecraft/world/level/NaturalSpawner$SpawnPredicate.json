@@ -1,0 +1,1 @@
+{"name":"NaturalSpawner$SpawnPredicate","package":"net.minecraft.world.level","fqn":"net.minecraft.world.level.NaturalSpawner$SpawnPredicate","type":"interface","members":["public abstract boolean test(net.minecraft.world.entity.EntityType<?>, net.minecraft.core.BlockPos, net.minecraft.world.level.chunk.ChunkAccess);"],"references":[],"usages":[]}

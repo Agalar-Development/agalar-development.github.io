@@ -1,0 +1,1 @@
+{"name":"ReflectionBasedSerialization","package":"com.mojang.realmsclient.dto","fqn":"com.mojang.realmsclient.dto.ReflectionBasedSerialization","type":"interface","members":[],"references":[],"usages":["com.mojang.realmsclient.dto.GuardedSerializer"]}

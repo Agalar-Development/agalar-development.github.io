@@ -1,0 +1,1 @@
+{"name":"PreparableReloadListener$PreparationBarrier","package":"net.minecraft.server.packs.resources","fqn":"net.minecraft.server.packs.resources.PreparableReloadListener$PreparationBarrier","type":"interface","members":["public abstract <T> java.util.concurrent.CompletableFuture<T> wait(T);"],"references":[],"usages":[]}

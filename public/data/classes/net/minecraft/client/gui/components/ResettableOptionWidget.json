@@ -1,0 +1,1 @@
+{"name":"ResettableOptionWidget","package":"net.minecraft.client.gui.components","fqn":"net.minecraft.client.gui.components.ResettableOptionWidget","type":"interface","members":["public abstract void resetValue();"],"references":[],"usages":["net.minecraft.client.gui.components.OptionsList"]}

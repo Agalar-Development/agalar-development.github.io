@@ -1,0 +1,1 @@
+{"name":"ToFloatFunction","package":"net.minecraft.util","fqn":"net.minecraft.util.ToFloatFunction","type":"interface","members":["public abstract float applyAsFloat(T);"],"references":[],"usages":[]}

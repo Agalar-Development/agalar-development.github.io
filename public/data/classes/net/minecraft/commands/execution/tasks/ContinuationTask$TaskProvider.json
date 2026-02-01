@@ -1,0 +1,1 @@
+{"name":"ContinuationTask$TaskProvider","package":"net.minecraft.commands.execution.tasks","fqn":"net.minecraft.commands.execution.tasks.ContinuationTask$TaskProvider","type":"interface","members":["public abstract net.minecraft.commands.execution.CommandQueueEntry<T> create(net.minecraft.commands.execution.Frame, P);"],"references":[],"usages":[]}

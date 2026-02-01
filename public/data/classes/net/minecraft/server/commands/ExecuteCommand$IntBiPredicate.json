@@ -1,0 +1,1 @@
+{"name":"ExecuteCommand$IntBiPredicate","package":"net.minecraft.server.commands","fqn":"net.minecraft.server.commands.ExecuteCommand$IntBiPredicate","type":"interface","members":["public abstract boolean test(int, int);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"NamedRule","package":"net.minecraft.util.parsing.packrat","fqn":"net.minecraft.util.parsing.packrat.NamedRule","type":"interface","members":["public abstract net.minecraft.util.parsing.packrat.Atom<T> name();","public abstract net.minecraft.util.parsing.packrat.Rule<S, T> value();"],"references":[],"usages":["net.minecraft.util.parsing.packrat.Dictionary"]}

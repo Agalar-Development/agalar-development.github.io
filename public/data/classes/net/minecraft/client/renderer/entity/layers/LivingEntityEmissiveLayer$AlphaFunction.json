@@ -1,0 +1,1 @@
+{"name":"LivingEntityEmissiveLayer$AlphaFunction","package":"net.minecraft.client.renderer.entity.layers","fqn":"net.minecraft.client.renderer.entity.layers.LivingEntityEmissiveLayer$AlphaFunction","type":"interface","members":["public abstract float apply(S, float);"],"references":[],"usages":[]}

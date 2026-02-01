@@ -1,0 +1,1 @@
+{"name":"TagEntry$Lookup","package":"net.minecraft.tags","fqn":"net.minecraft.tags.TagEntry$Lookup","type":"interface","members":["public abstract T element(net.minecraft.resources.Identifier, boolean);","public abstract java.util.Collection<T> tag(net.minecraft.resources.Identifier);"],"references":[],"usages":[]}

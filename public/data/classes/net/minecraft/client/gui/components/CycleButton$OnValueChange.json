@@ -1,0 +1,1 @@
+{"name":"CycleButton$OnValueChange","package":"net.minecraft.client.gui.components","fqn":"net.minecraft.client.gui.components.CycleButton$OnValueChange","type":"interface","members":["public abstract void onValueChange(net.minecraft.client.gui.components.CycleButton<T>, T);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"EuclideanGameEventListenerRegistry$OnEmptyAction","package":"net.minecraft.world.level.gameevent","fqn":"net.minecraft.world.level.gameevent.EuclideanGameEventListenerRegistry$OnEmptyAction","type":"interface","members":["public abstract void apply(int);"],"references":[],"usages":[]}

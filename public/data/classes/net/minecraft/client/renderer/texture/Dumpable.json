@@ -1,0 +1,1 @@
+{"name":"Dumpable","package":"net.minecraft.client.renderer.texture","fqn":"net.minecraft.client.renderer.texture.Dumpable","type":"interface","members":["public abstract void dumpContents(net.minecraft.resources.Identifier, java.nio.file.Path) throws java.io.IOException;"],"references":[],"usages":["net.minecraft.client.renderer.texture.TextureManager"]}

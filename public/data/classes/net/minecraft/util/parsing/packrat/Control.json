@@ -1,0 +1,1 @@
+{"name":"Control","package":"net.minecraft.util.parsing.packrat","fqn":"net.minecraft.util.parsing.packrat.Control","type":"interface","members":["public static final net.minecraft.util.parsing.packrat.Control UNBOUND;","public abstract void cut();","public abstract boolean hasCut();","static {};"],"references":["net.minecraft.util.parsing.packrat.Control$1"],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"StringSplitter$WidthProvider","package":"net.minecraft.client","fqn":"net.minecraft.client.StringSplitter$WidthProvider","type":"interface","members":["public abstract float getWidth(int, net.minecraft.network.chat.Style);"],"references":[],"usages":[]}

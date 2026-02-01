@@ -1,0 +1,1 @@
+{"name":"BlockGetter$BlockStepVisitor","package":"net.minecraft.world.level","fqn":"net.minecraft.world.level.BlockGetter$BlockStepVisitor","type":"interface","members":["public abstract boolean visit(net.minecraft.core.BlockPos, int);"],"references":[],"usages":[]}

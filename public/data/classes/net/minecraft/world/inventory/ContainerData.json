@@ -1,0 +1,1 @@
+{"name":"ContainerData","package":"net.minecraft.world.inventory","fqn":"net.minecraft.world.inventory.ContainerData","type":"interface","members":["public abstract int get(int);","public abstract void set(int, int);","public abstract int getCount();"],"references":[],"usages":[]}

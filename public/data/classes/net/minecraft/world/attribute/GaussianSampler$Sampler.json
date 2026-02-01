@@ -1,0 +1,1 @@
+{"name":"GaussianSampler$Sampler","package":"net.minecraft.world.attribute","fqn":"net.minecraft.world.attribute.GaussianSampler$Sampler","type":"interface","members":["public abstract V get(int, int, int);"],"references":[],"usages":[]}

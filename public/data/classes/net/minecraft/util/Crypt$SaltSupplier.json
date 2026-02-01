@@ -1,0 +1,1 @@
+{"name":"Crypt$SaltSupplier","package":"net.minecraft.util","fqn":"net.minecraft.util.Crypt$SaltSupplier","type":"class","members":["private static final java.security.SecureRandom secureRandom;","public net.minecraft.util.Crypt$SaltSupplier();","public static long getLong();","static {};"],"references":[],"usages":[]}

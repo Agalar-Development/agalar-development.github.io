@@ -1,0 +1,1 @@
+{"name":"Graph","package":"net.minecraft.util","fqn":"net.minecraft.util.Graph","type":"class","members":["private net.minecraft.util.Graph();","public static <T> boolean depthFirstSearch(java.util.Map<T, java.util.Set<T>>, java.util.Set<T>, java.util.Set<T>, java.util.function.Consumer<T>, T);"],"references":["com.google.common.collect.ImmutableSet.of"],"usages":[]}

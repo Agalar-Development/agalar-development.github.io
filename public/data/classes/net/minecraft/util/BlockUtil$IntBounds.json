@@ -1,0 +1,1 @@
+{"name":"BlockUtil$IntBounds","package":"net.minecraft.util","fqn":"net.minecraft.util.BlockUtil$IntBounds","type":"class","members":["public final int min;","public final int max;","public net.minecraft.util.BlockUtil$IntBounds(int, int);","public java.lang.String toString();"],"references":[],"usages":["net.minecraft.util.BlockUtil"]}

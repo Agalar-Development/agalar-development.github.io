@@ -1,0 +1,1 @@
+{"name":"Button$CreateNarration","package":"net.minecraft.client.gui.components","fqn":"net.minecraft.client.gui.components.Button$CreateNarration","type":"interface","members":["public abstract net.minecraft.network.chat.MutableComponent createNarrationMessage(java.util.function.Supplier<net.minecraft.network.chat.MutableComponent>);"],"references":[],"usages":[]}

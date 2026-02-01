@@ -1,0 +1,1 @@
+{"name":"ClientboundPacketListener","package":"net.minecraft.network","fqn":"net.minecraft.network.ClientboundPacketListener","type":"interface","members":["public default net.minecraft.network.protocol.PacketFlow flow();"],"references":["net.minecraft.network.protocol.PacketFlow.CLIENTBOUND"],"usages":[]}

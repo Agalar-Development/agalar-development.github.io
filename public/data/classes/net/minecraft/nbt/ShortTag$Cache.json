@@ -1,0 +1,1 @@
+{"name":"ShortTag$Cache","package":"net.minecraft.nbt","fqn":"net.minecraft.nbt.ShortTag$Cache","type":"class","members":["private static final int HIGH;","private static final int LOW;","static final net.minecraft.nbt.ShortTag[] cache;","private net.minecraft.nbt.ShortTag$Cache();","static {};"],"references":["net.minecraft.nbt.ShortTag"],"usages":[]}

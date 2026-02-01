@@ -1,0 +1,1 @@
+{"name":"PackReloadConfig","package":"net.minecraft.client.resources.server","fqn":"net.minecraft.client.resources.server.PackReloadConfig","type":"interface","members":["public abstract void scheduleReload(net.minecraft.client.resources.server.PackReloadConfig$Callbacks);"],"references":[],"usages":[]}

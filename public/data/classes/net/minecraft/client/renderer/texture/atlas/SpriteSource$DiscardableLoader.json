@@ -1,0 +1,1 @@
+{"name":"SpriteSource$DiscardableLoader","package":"net.minecraft.client.renderer.texture.atlas","fqn":"net.minecraft.client.renderer.texture.atlas.SpriteSource$DiscardableLoader","type":"interface","members":["public default void discard();"],"references":[],"usages":["net.minecraft.client.renderer.texture.atlas.SpriteSourceList$1"]}

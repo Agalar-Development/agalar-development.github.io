@@ -1,0 +1,1 @@
+{"name":"GameTestRunner$GameTestBatcher","package":"net.minecraft.gametest.framework","fqn":"net.minecraft.gametest.framework.GameTestRunner$GameTestBatcher","type":"interface","members":["public abstract java.util.Collection<net.minecraft.gametest.framework.GameTestBatch> batch(java.util.Collection<net.minecraft.gametest.framework.GameTestInfo>);"],"references":[],"usages":[]}

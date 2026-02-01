@@ -1,0 +1,1 @@
+{"name":"InvalidRequestJsonRpcException","package":"net.minecraft.server.jsonrpc.methods","fqn":"net.minecraft.server.jsonrpc.methods.InvalidRequestJsonRpcException","type":"class","members":["public net.minecraft.server.jsonrpc.methods.InvalidRequestJsonRpcException(java.lang.String);"],"references":[],"usages":["net.minecraft.server.jsonrpc.Connection"]}

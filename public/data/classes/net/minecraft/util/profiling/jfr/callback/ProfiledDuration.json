@@ -1,0 +1,1 @@
+{"name":"ProfiledDuration","package":"net.minecraft.util.profiling.jfr.callback","fqn":"net.minecraft.util.profiling.jfr.callback.ProfiledDuration","type":"interface","members":["public abstract void finish(boolean);"],"references":[],"usages":[]}

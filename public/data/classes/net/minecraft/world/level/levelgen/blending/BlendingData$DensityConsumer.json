@@ -1,0 +1,1 @@
+{"name":"BlendingData$DensityConsumer","package":"net.minecraft.world.level.levelgen.blending","fqn":"net.minecraft.world.level.levelgen.blending.BlendingData$DensityConsumer","type":"interface","members":["public abstract void consume(int, int, int, double);"],"references":[],"usages":[]}

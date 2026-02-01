@@ -1,0 +1,1 @@
+{"name":"IntRange$IntChecker","package":"net.minecraft.world.level.storage.loot","fqn":"net.minecraft.world.level.storage.loot.IntRange$IntChecker","type":"interface","members":["public abstract boolean test(net.minecraft.world.level.storage.loot.LootContext, int);"],"references":[],"usages":[]}

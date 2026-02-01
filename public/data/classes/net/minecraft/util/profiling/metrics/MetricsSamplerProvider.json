@@ -1,0 +1,1 @@
+{"name":"MetricsSamplerProvider","package":"net.minecraft.util.profiling.metrics","fqn":"net.minecraft.util.profiling.metrics.MetricsSamplerProvider","type":"interface","members":["public abstract java.util.Set<net.minecraft.util.profiling.metrics.MetricSampler> samplers(java.util.function.Supplier<net.minecraft.util.profiling.ProfileCollector>);"],"references":[],"usages":[]}

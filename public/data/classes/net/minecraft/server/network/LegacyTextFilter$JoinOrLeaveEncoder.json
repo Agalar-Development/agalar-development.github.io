@@ -1,0 +1,1 @@
+{"name":"LegacyTextFilter$JoinOrLeaveEncoder","package":"net.minecraft.server.network","fqn":"net.minecraft.server.network.LegacyTextFilter$JoinOrLeaveEncoder","type":"interface","members":["public abstract com.google.gson.JsonObject encode(com.mojang.authlib.GameProfile);"],"references":[],"usages":[]}

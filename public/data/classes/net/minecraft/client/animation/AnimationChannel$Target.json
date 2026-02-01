@@ -1,0 +1,1 @@
+{"name":"AnimationChannel$Target","package":"net.minecraft.client.animation","fqn":"net.minecraft.client.animation.AnimationChannel$Target","type":"interface","members":["public abstract void apply(net.minecraft.client.model.geom.ModelPart, org.joml.Vector3f);"],"references":[],"usages":[]}

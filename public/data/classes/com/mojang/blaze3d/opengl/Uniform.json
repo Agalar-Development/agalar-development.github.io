@@ -1,0 +1,1 @@
+{"name":"Uniform","package":"com.mojang.blaze3d.opengl","fqn":"com.mojang.blaze3d.opengl.Uniform","type":"interface","members":["public default void close();"],"references":[],"usages":["com.mojang.blaze3d.opengl.GlCommandEncoder","com.mojang.blaze3d.opengl.GlProgram"]}

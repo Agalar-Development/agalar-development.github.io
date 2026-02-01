@@ -1,0 +1,1 @@
+{"name":"ValueInput$TypedInputList","package":"net.minecraft.world.level.storage","fqn":"net.minecraft.world.level.storage.ValueInput$TypedInputList","type":"interface","members":["public abstract boolean isEmpty();","public abstract java.util.stream.Stream<T> stream();"],"references":[],"usages":[]}

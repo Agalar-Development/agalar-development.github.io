@@ -1,0 +1,1 @@
+{"name":"ChunkStatusUpdateListener","package":"net.minecraft.world.level.entity","fqn":"net.minecraft.world.level.entity.ChunkStatusUpdateListener","type":"interface","members":["public abstract void onChunkStatusChange(net.minecraft.world.level.ChunkPos, net.minecraft.server.level.FullChunkStatus);"],"references":[],"usages":[]}

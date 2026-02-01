@@ -1,0 +1,1 @@
+{"name":"RenderPass$UniformUploader","package":"com.mojang.blaze3d.systems","fqn":"com.mojang.blaze3d.systems.RenderPass$UniformUploader","type":"interface","members":["public abstract void upload(java.lang.String, com.mojang.blaze3d.buffers.GpuBufferSlice);"],"references":[],"usages":[]}

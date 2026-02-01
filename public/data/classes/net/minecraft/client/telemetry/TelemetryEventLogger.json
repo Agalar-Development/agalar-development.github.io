@@ -1,0 +1,1 @@
+{"name":"TelemetryEventLogger","package":"net.minecraft.client.telemetry","fqn":"net.minecraft.client.telemetry.TelemetryEventLogger","type":"interface","members":["public abstract void log(net.minecraft.client.telemetry.TelemetryEventInstance);"],"references":[],"usages":["net.minecraft.client.telemetry.ClientTelemetryManager"]}

@@ -1,0 +1,1 @@
+{"name":"EnchantmentHelper$EnchantmentVisitor","package":"net.minecraft.world.item.enchantment","fqn":"net.minecraft.world.item.enchantment.EnchantmentHelper$EnchantmentVisitor","type":"interface","members":["public abstract void accept(net.minecraft.core.Holder<net.minecraft.world.item.enchantment.Enchantment>, int);"],"references":[],"usages":[]}

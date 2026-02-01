@@ -1,0 +1,1 @@
+{"name":"SlotSelectTime","package":"net.minecraft.client.gui.screens.recipebook","fqn":"net.minecraft.client.gui.screens.recipebook.SlotSelectTime","type":"interface","members":["public abstract int currentIndex();"],"references":[],"usages":[]}

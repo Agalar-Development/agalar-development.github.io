@@ -1,0 +1,1 @@
+{"name":"TelemetryProperty$Exporter","package":"net.minecraft.client.telemetry","fqn":"net.minecraft.client.telemetry.TelemetryProperty$Exporter","type":"interface","members":["public abstract void apply(com.mojang.authlib.minecraft.TelemetryPropertyContainer, java.lang.String, T);"],"references":[],"usages":[]}

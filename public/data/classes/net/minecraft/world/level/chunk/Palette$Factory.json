@@ -1,0 +1,1 @@
+{"name":"Palette$Factory","package":"net.minecraft.world.level.chunk","fqn":"net.minecraft.world.level.chunk.Palette$Factory","type":"interface","members":["public abstract <A> net.minecraft.world.level.chunk.Palette<A> create(int, java.util.List<A>);"],"references":[],"usages":[]}

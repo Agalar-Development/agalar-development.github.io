@@ -1,0 +1,1 @@
+{"name":"GizmoProperties","package":"net.minecraft.gizmos","fqn":"net.minecraft.gizmos.GizmoProperties","type":"interface","members":["public abstract net.minecraft.gizmos.GizmoProperties setAlwaysOnTop();","public abstract net.minecraft.gizmos.GizmoProperties persistForMillis(int);","public abstract net.minecraft.gizmos.GizmoProperties fadeOut();"],"references":[],"usages":[]}

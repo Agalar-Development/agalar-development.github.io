@@ -1,0 +1,1 @@
+{"name":"RegionFile$CommitOp","package":"net.minecraft.world.level.chunk.storage","fqn":"net.minecraft.world.level.chunk.storage.RegionFile$CommitOp","type":"interface","members":["public abstract void run() throws java.io.IOException;"],"references":[],"usages":[]}

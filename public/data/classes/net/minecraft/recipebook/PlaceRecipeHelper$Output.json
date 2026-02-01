@@ -1,0 +1,1 @@
+{"name":"PlaceRecipeHelper$Output","package":"net.minecraft.recipebook","fqn":"net.minecraft.recipebook.PlaceRecipeHelper$Output","type":"interface","members":["public abstract void addItemToSlot(T, int, int, int);"],"references":[],"usages":[]}

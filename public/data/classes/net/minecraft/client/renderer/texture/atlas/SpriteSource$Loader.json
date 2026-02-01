@@ -1,0 +1,1 @@
+{"name":"SpriteSource$Loader","package":"net.minecraft.client.renderer.texture.atlas","fqn":"net.minecraft.client.renderer.texture.atlas.SpriteSource$Loader","type":"interface","members":["public abstract net.minecraft.client.renderer.texture.SpriteContents get(net.minecraft.client.renderer.texture.atlas.SpriteResourceLoader);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"TraceableEntity","package":"net.minecraft.world.entity","fqn":"net.minecraft.world.entity.TraceableEntity","type":"interface","members":["public abstract net.minecraft.world.entity.Entity getOwner();"],"references":[],"usages":["net.minecraft.server.commands.ExecuteCommand"]}

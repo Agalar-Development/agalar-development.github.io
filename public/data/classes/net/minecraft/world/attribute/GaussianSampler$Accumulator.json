@@ -1,0 +1,1 @@
+{"name":"GaussianSampler$Accumulator","package":"net.minecraft.world.attribute","fqn":"net.minecraft.world.attribute.GaussianSampler$Accumulator","type":"interface","members":["public abstract void accumulate(double, V);"],"references":[],"usages":[]}

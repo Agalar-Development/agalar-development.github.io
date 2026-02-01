@@ -1,0 +1,1 @@
+{"name":"ProjectileItem$PositionFunction","package":"net.minecraft.world.item","fqn":"net.minecraft.world.item.ProjectileItem$PositionFunction","type":"interface","members":["public abstract net.minecraft.core.Position getDispensePosition(net.minecraft.core.dispenser.BlockSource, net.minecraft.core.Direction);"],"references":[],"usages":[]}

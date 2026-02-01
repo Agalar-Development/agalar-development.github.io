@@ -1,0 +1,1 @@
+{"name":"GoalSelector$1","package":"net.minecraft.world.entity.ai.goal","fqn":"net.minecraft.world.entity.ai.goal.GoalSelector$1","type":"class","members":["net.minecraft.world.entity.ai.goal.GoalSelector$1();","public boolean canUse();"],"references":["net.minecraft.world.entity.ai.goal.Goal"],"usages":["net.minecraft.world.entity.ai.goal.GoalSelector"]}

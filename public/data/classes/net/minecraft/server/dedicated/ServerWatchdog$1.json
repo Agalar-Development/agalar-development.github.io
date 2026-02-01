@@ -1,0 +1,1 @@
+{"name":"ServerWatchdog$1","package":"net.minecraft.server.dedicated","fqn":"net.minecraft.server.dedicated.ServerWatchdog$1","type":"class","members":["net.minecraft.server.dedicated.ServerWatchdog$1(net.minecraft.server.dedicated.ServerWatchdog);","public void run();"],"references":[],"usages":["net.minecraft.server.dedicated.ServerWatchdog"]}

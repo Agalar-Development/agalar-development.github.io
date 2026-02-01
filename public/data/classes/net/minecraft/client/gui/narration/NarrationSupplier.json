@@ -1,0 +1,1 @@
+{"name":"NarrationSupplier","package":"net.minecraft.client.gui.narration","fqn":"net.minecraft.client.gui.narration.NarrationSupplier","type":"interface","members":["public abstract void updateNarration(net.minecraft.client.gui.narration.NarrationElementOutput);"],"references":[],"usages":[]}

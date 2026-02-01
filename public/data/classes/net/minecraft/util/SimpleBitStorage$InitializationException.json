@@ -1,0 +1,1 @@
+{"name":"SimpleBitStorage$InitializationException","package":"net.minecraft.util","fqn":"net.minecraft.util.SimpleBitStorage$InitializationException","type":"class","members":["private net.minecraft.util.SimpleBitStorage$InitializationException(java.lang.String);"],"references":[],"usages":["net.minecraft.util.SimpleBitStorage"]}

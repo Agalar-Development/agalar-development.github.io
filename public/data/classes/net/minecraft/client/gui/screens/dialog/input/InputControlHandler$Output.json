@@ -1,0 +1,1 @@
+{"name":"InputControlHandler$Output","package":"net.minecraft.client.gui.screens.dialog.input","fqn":"net.minecraft.client.gui.screens.dialog.input.InputControlHandler$Output","type":"interface","members":["public abstract void accept(net.minecraft.client.gui.layouts.LayoutElement, net.minecraft.server.dialog.action.Action$ValueGetter);"],"references":[],"usages":[]}

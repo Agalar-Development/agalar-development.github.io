@@ -1,0 +1,1 @@
+{"name":"EditBox$TextFormatter","package":"net.minecraft.client.gui.components","fqn":"net.minecraft.client.gui.components.EditBox$TextFormatter","type":"interface","members":["public abstract net.minecraft.util.FormattedCharSequence format(java.lang.String, int);"],"references":[],"usages":["net.minecraft.client.gui.components.EditBox"]}

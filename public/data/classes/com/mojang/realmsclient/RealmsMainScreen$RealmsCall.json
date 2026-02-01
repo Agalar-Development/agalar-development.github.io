@@ -1,0 +1,1 @@
+{"name":"RealmsMainScreen$RealmsCall","package":"com.mojang.realmsclient","fqn":"com.mojang.realmsclient.RealmsMainScreen$RealmsCall","type":"interface","members":["public abstract T request(com.mojang.realmsclient.client.RealmsClient) throws com.mojang.realmsclient.exception.RealmsServiceException;"],"references":[],"usages":[]}

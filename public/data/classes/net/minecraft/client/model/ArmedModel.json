@@ -1,0 +1,1 @@
+{"name":"ArmedModel","package":"net.minecraft.client.model","fqn":"net.minecraft.client.model.ArmedModel","type":"interface","members":["public abstract void translateToHand(T, net.minecraft.world.entity.HumanoidArm, com.mojang.blaze3d.vertex.PoseStack);"],"references":[],"usages":["net.minecraft.client.renderer.entity.layers.ItemInHandLayer"]}

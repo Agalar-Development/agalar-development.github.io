@@ -1,0 +1,1 @@
+{"name":"MonitorCreator","package":"com.mojang.blaze3d.platform","fqn":"com.mojang.blaze3d.platform.MonitorCreator","type":"interface","members":["public abstract com.mojang.blaze3d.platform.Monitor createMonitor(long);"],"references":[],"usages":[]}

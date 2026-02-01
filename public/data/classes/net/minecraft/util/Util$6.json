@@ -1,0 +1,1 @@
+{"name":"Util$6","package":"net.minecraft.util","fqn":"net.minecraft.util.Util$6","type":"class","members":["final java.nio.file.Path val$target;","net.minecraft.util.Util$6();","public boolean getAsBoolean();","public java.lang.String toString();"],"references":["net.minecraft.util.Util.LOGGER","org.slf4j.Logger.warn"],"usages":["net.minecraft.util.Util"]}

@@ -1,0 +1,1 @@
+{"name":"SimpleUnboundProtocol","package":"net.minecraft.network.protocol","fqn":"net.minecraft.network.protocol.SimpleUnboundProtocol","type":"interface","members":["public abstract net.minecraft.network.ProtocolInfo<T> bind(java.util.function.Function<io.netty.buffer.ByteBuf, B>);"],"references":[],"usages":[]}

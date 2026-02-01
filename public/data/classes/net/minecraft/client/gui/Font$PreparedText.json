@@ -1,0 +1,1 @@
+{"name":"Font$PreparedText","package":"net.minecraft.client.gui","fqn":"net.minecraft.client.gui.Font$PreparedText","type":"interface","members":["public abstract void visit(net.minecraft.client.gui.Font$GlyphVisitor);","public abstract net.minecraft.client.gui.navigation.ScreenRectangle bounds();"],"references":[],"usages":[]}

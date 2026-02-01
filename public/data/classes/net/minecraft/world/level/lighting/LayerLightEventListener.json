@@ -1,0 +1,1 @@
+{"name":"LayerLightEventListener","package":"net.minecraft.world.level.lighting","fqn":"net.minecraft.world.level.lighting.LayerLightEventListener","type":"interface","members":["public abstract net.minecraft.world.level.chunk.DataLayer getDataLayerData(net.minecraft.core.SectionPos);","public abstract int getLightValue(net.minecraft.core.BlockPos);"],"references":[],"usages":[]}

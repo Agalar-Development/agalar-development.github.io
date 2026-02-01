@@ -1,0 +1,1 @@
+{"name":"TimeSource$NanoTimeSource","package":"net.minecraft.util","fqn":"net.minecraft.util.TimeSource$NanoTimeSource","type":"interface","members":["public default long get(java.util.concurrent.TimeUnit);"],"references":[],"usages":[]}

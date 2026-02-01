@@ -1,0 +1,1 @@
+{"name":"CreativeModeTab$DisplayItemsGenerator","package":"net.minecraft.world.item","fqn":"net.minecraft.world.item.CreativeModeTab$DisplayItemsGenerator","type":"interface","members":["public abstract void accept(net.minecraft.world.item.CreativeModeTab$ItemDisplayParameters, net.minecraft.world.item.CreativeModeTab$Output);"],"references":[],"usages":[]}

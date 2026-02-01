@@ -1,0 +1,1 @@
+{"name":"Util$7","package":"net.minecraft.util","fqn":"net.minecraft.util.Util$7","type":"class","members":["final java.nio.file.Path val$target;","net.minecraft.util.Util$7();","public boolean getAsBoolean();","public java.lang.String toString();"],"references":[],"usages":["net.minecraft.util.Util"]}

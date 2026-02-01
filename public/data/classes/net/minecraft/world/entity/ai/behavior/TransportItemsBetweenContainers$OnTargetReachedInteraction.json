@@ -1,0 +1,1 @@
+{"name":"TransportItemsBetweenContainers$OnTargetReachedInteraction","package":"net.minecraft.world.entity.ai.behavior","fqn":"net.minecraft.world.entity.ai.behavior.TransportItemsBetweenContainers$OnTargetReachedInteraction","type":"interface","members":[],"references":[],"usages":["net.minecraft.world.entity.ai.behavior.TransportItemsBetweenContainers"]}

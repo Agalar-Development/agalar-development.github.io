@@ -1,0 +1,1 @@
+{"name":"WaypointManager","package":"net.minecraft.world.waypoints","fqn":"net.minecraft.world.waypoints.WaypointManager","type":"interface","members":["public abstract void trackWaypoint(T);","public abstract void updateWaypoint(T);","public abstract void untrackWaypoint(T);"],"references":[],"usages":[]}

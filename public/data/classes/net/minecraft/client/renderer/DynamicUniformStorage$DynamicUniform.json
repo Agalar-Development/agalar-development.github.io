@@ -1,0 +1,1 @@
+{"name":"DynamicUniformStorage$DynamicUniform","package":"net.minecraft.client.renderer","fqn":"net.minecraft.client.renderer.DynamicUniformStorage$DynamicUniform","type":"interface","members":["public abstract void write(java.nio.ByteBuffer);"],"references":[],"usages":[]}

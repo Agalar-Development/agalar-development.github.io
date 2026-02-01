@@ -1,0 +1,1 @@
+{"name":"Renderable","package":"net.minecraft.client.gui.components","fqn":"net.minecraft.client.gui.components.Renderable","type":"interface","members":["public abstract void render(net.minecraft.client.gui.GuiGraphics, int, int, float);"],"references":[],"usages":["net.minecraft.client.gui.screens.Screen"]}

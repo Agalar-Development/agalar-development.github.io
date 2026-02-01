@@ -1,0 +1,1 @@
+{"name":"TimedStat","package":"net.minecraft.util.profiling.jfr.stats","fqn":"net.minecraft.util.profiling.jfr.stats.TimedStat","type":"interface","members":["public abstract java.time.Duration duration();"],"references":[],"usages":["net.minecraft.util.profiling.jfr.stats.TimedStatSummary"]}

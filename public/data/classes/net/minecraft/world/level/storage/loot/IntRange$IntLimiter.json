@@ -1,0 +1,1 @@
+{"name":"IntRange$IntLimiter","package":"net.minecraft.world.level.storage.loot","fqn":"net.minecraft.world.level.storage.loot.IntRange$IntLimiter","type":"interface","members":["public abstract int apply(net.minecraft.world.level.storage.loot.LootContext, int);"],"references":[],"usages":[]}

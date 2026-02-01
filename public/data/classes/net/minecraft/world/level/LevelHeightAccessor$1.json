@@ -1,0 +1,1 @@
+{"name":"LevelHeightAccessor$1","package":"net.minecraft.world.level","fqn":"net.minecraft.world.level.LevelHeightAccessor$1","type":"class","members":["final int val$height;","final int val$minY;","net.minecraft.world.level.LevelHeightAccessor$1();","public int getHeight();","public int getMinY();"],"references":[],"usages":["net.minecraft.world.level.LevelHeightAccessor"]}

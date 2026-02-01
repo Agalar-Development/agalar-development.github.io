@@ -1,0 +1,1 @@
+{"name":"ScoreHolder$3","package":"net.minecraft.world.scores","fqn":"net.minecraft.world.scores.ScoreHolder$3","type":"class","members":["final java.lang.String val$name;","net.minecraft.world.scores.ScoreHolder$3();","public java.lang.String getScoreboardName();"],"references":[],"usages":["net.minecraft.world.scores.ScoreHolder"]}

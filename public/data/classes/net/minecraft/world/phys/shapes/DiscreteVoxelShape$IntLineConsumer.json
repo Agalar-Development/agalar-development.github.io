@@ -1,0 +1,1 @@
+{"name":"DiscreteVoxelShape$IntLineConsumer","package":"net.minecraft.world.phys.shapes","fqn":"net.minecraft.world.phys.shapes.DiscreteVoxelShape$IntLineConsumer","type":"interface","members":["public abstract void consume(int, int, int, int, int, int);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"BlockColumn","package":"net.minecraft.world.level.chunk","fqn":"net.minecraft.world.level.chunk.BlockColumn","type":"interface","members":["public abstract net.minecraft.world.level.block.state.BlockState getBlock(int);","public abstract void setBlock(int, net.minecraft.world.level.block.state.BlockState);"],"references":[],"usages":[]}

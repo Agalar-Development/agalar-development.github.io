@@ -1,0 +1,1 @@
+{"name":"MultifaceSpreader$SpreadPredicate","package":"net.minecraft.world.level.block","fqn":"net.minecraft.world.level.block.MultifaceSpreader$SpreadPredicate","type":"interface","members":["public abstract boolean test(net.minecraft.world.level.BlockGetter, net.minecraft.core.BlockPos, net.minecraft.world.level.block.MultifaceSpreader$SpreadPos);"],"references":[],"usages":[]}

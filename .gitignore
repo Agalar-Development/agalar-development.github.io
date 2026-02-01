@@ -4,8 +4,8 @@ node_modules/
 # build output
 dist/
 
-# generated data
-public/data/
+# generated data (commented out - we need this for deployment)
+# public/data/
 
 # environment
 .env

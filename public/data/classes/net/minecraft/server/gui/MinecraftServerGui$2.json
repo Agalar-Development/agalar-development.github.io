@@ -1,0 +1,1 @@
+{"name":"MinecraftServerGui$2","package":"net.minecraft.server.gui","fqn":"net.minecraft.server.gui.MinecraftServerGui$2","type":"class","members":["net.minecraft.server.gui.MinecraftServerGui$2(net.minecraft.server.gui.MinecraftServerGui);","public void focusGained(java.awt.event.FocusEvent);"],"references":[],"usages":["net.minecraft.server.gui.MinecraftServerGui"]}

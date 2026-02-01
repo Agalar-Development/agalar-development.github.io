@@ -1,0 +1,1 @@
+{"name":"DebugValueSource$ValueGetter","package":"net.minecraft.util.debug","fqn":"net.minecraft.util.debug.DebugValueSource$ValueGetter","type":"interface","members":["public abstract T get();"],"references":[],"usages":[]}

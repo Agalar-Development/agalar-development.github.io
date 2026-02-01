@@ -1,0 +1,1 @@
+{"name":"ByteTag$Cache","package":"net.minecraft.nbt","fqn":"net.minecraft.nbt.ByteTag$Cache","type":"class","members":["private static final net.minecraft.nbt.ByteTag[] cache;","private net.minecraft.nbt.ByteTag$Cache();","static {};"],"references":["net.minecraft.nbt.ByteTag"],"usages":[]}

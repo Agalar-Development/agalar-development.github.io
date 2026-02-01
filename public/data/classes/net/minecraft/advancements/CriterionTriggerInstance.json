@@ -1,0 +1,1 @@
+{"name":"CriterionTriggerInstance","package":"net.minecraft.advancements","fqn":"net.minecraft.advancements.CriterionTriggerInstance","type":"interface","members":["public abstract void validate(net.minecraft.advancements.criterion.CriterionValidator);"],"references":[],"usages":[]}

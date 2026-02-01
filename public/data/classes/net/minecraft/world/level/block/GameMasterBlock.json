@@ -1,0 +1,1 @@
+{"name":"GameMasterBlock","package":"net.minecraft.world.level.block","fqn":"net.minecraft.world.level.block.GameMasterBlock","type":"interface","members":[],"references":[],"usages":["net.minecraft.client.multiplayer.MultiPlayerGameMode","net.minecraft.server.level.ServerPlayerGameMode"]}

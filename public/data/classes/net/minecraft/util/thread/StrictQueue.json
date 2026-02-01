@@ -1,0 +1,1 @@
+{"name":"StrictQueue","package":"net.minecraft.util.thread","fqn":"net.minecraft.util.thread.StrictQueue","type":"interface","members":["public abstract java.lang.Runnable pop();","public abstract boolean push(T);","public abstract boolean isEmpty();","public abstract int size();"],"references":[],"usages":[]}

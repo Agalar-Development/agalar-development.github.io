@@ -1,0 +1,1 @@
+{"name":"CacheSlot$Cleaner","package":"net.minecraft.client.multiplayer","fqn":"net.minecraft.client.multiplayer.CacheSlot$Cleaner","type":"interface","members":["public abstract void registerForCleaning(net.minecraft.client.multiplayer.CacheSlot<C, ?>);"],"references":[],"usages":[]}

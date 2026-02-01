@@ -1,0 +1,1 @@
+{"name":"SerializableTickContainer","package":"net.minecraft.world.ticks","fqn":"net.minecraft.world.ticks.SerializableTickContainer","type":"interface","members":["public abstract java.util.List<net.minecraft.world.ticks.SavedTick<T>> pack(long);"],"references":[],"usages":[]}

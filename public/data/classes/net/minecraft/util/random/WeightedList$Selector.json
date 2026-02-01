@@ -1,0 +1,1 @@
+{"name":"WeightedList$Selector","package":"net.minecraft.util.random","fqn":"net.minecraft.util.random.WeightedList$Selector","type":"interface","members":["public abstract E get(int);"],"references":[],"usages":[]}

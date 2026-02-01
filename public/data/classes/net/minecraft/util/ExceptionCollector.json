@@ -1,0 +1,1 @@
+{"name":"ExceptionCollector","package":"net.minecraft.util","fqn":"net.minecraft.util.ExceptionCollector","type":"class","members":["private T result;","public net.minecraft.util.ExceptionCollector();","public void add(T);","public void throwIfPresent() throws T;"],"references":[],"usages":["net.minecraft.world.level.chunk.storage.RegionFileStorage"]}

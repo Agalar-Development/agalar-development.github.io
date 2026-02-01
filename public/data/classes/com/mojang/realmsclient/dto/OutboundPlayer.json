@@ -1,0 +1,1 @@
+{"name":"OutboundPlayer","package":"com.mojang.realmsclient.dto","fqn":"com.mojang.realmsclient.dto.OutboundPlayer","type":"class","members":["public java.lang.String name;","public java.util.UUID uuid;","public com.mojang.realmsclient.dto.OutboundPlayer();"],"references":[],"usages":["com.mojang.realmsclient.client.RealmsClient"]}

@@ -1,0 +1,1 @@
+{"name":"SelectItemModel$ModelSelector","package":"net.minecraft.client.renderer.item","fqn":"net.minecraft.client.renderer.item.SelectItemModel$ModelSelector","type":"interface","members":["public abstract net.minecraft.client.renderer.item.ItemModel get(T, net.minecraft.client.multiplayer.ClientLevel);"],"references":[],"usages":[]}

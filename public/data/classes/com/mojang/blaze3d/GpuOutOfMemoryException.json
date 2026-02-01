@@ -1,0 +1,1 @@
+{"name":"GpuOutOfMemoryException","package":"com.mojang.blaze3d","fqn":"com.mojang.blaze3d.GpuOutOfMemoryException","type":"class","members":["public com.mojang.blaze3d.GpuOutOfMemoryException(java.lang.String);"],"references":[],"usages":["com.mojang.blaze3d.opengl.GlDevice"]}

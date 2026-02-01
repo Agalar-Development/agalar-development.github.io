@@ -1,0 +1,1 @@
+{"name":"NbtAccounterException","package":"net.minecraft.nbt","fqn":"net.minecraft.nbt.NbtAccounterException","type":"class","members":["public net.minecraft.nbt.NbtAccounterException(java.lang.String);"],"references":["net.minecraft.nbt.NbtException"],"usages":["net.minecraft.nbt.NbtAccounter"]}

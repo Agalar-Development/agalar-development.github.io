@@ -1,0 +1,1 @@
+{"name":"ReloadInstance","package":"net.minecraft.server.packs.resources","fqn":"net.minecraft.server.packs.resources.ReloadInstance","type":"interface","members":["public abstract java.util.concurrent.CompletableFuture<?> done();","public abstract float getActualProgress();","public default boolean isDone();","public default void checkExceptions();"],"references":[],"usages":[]}

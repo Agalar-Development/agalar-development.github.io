@@ -1,0 +1,1 @@
+{"name":"BelowZeroRetrogen$1","package":"net.minecraft.world.level.levelgen","fqn":"net.minecraft.world.level.levelgen.BelowZeroRetrogen$1","type":"class","members":["net.minecraft.world.level.levelgen.BelowZeroRetrogen$1();","public int getHeight();","public int getMinY();"],"references":[],"usages":["net.minecraft.world.level.levelgen.BelowZeroRetrogen"]}

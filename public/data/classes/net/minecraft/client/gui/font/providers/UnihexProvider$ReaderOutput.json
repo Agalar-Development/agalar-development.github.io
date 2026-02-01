@@ -1,0 +1,1 @@
+{"name":"UnihexProvider$ReaderOutput","package":"net.minecraft.client.gui.font.providers","fqn":"net.minecraft.client.gui.font.providers.UnihexProvider$ReaderOutput","type":"interface","members":["public abstract void accept(int, net.minecraft.client.gui.font.providers.UnihexProvider$LineData);"],"references":[],"usages":[]}

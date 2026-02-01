@@ -1,0 +1,1 @@
+{"name":"Util$3","package":"net.minecraft.util","fqn":"net.minecraft.util.Util$3","type":"class","members":["final java.util.function.Supplier val$task;","final java.lang.String val$name;","net.minecraft.util.Util$3(java.util.function.Supplier, java.lang.String);","public T get();","public java.lang.String toString();"],"references":[],"usages":["net.minecraft.util.Util"]}

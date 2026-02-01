@@ -1,0 +1,1 @@
+{"name":"RealmsUtil$RealmsIoFunction","package":"com.mojang.realmsclient.util","fqn":"com.mojang.realmsclient.util.RealmsUtil$RealmsIoFunction","type":"interface","members":["public abstract T apply(com.mojang.realmsclient.client.RealmsClient) throws com.mojang.realmsclient.exception.RealmsServiceException;"],"references":[],"usages":[]}

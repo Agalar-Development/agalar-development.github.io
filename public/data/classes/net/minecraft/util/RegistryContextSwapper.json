@@ -1,0 +1,1 @@
+{"name":"RegistryContextSwapper","package":"net.minecraft.util","fqn":"net.minecraft.util.RegistryContextSwapper","type":"interface","members":["public abstract <T> com.mojang.serialization.DataResult<T> swapTo(com.mojang.serialization.Codec<T>, T, net.minecraft.core.HolderLookup$Provider);"],"references":[],"usages":[]}

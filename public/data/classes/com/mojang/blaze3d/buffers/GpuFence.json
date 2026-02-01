@@ -1,0 +1,1 @@
+{"name":"GpuFence","package":"com.mojang.blaze3d.buffers","fqn":"com.mojang.blaze3d.buffers.GpuFence","type":"interface","members":["public abstract void close();","public abstract boolean awaitCompletion(long);"],"references":[],"usages":["net.minecraft.client.renderer.MappableRingBuffer"]}

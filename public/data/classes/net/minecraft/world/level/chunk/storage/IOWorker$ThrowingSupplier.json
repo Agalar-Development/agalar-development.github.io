@@ -1,0 +1,1 @@
+{"name":"IOWorker$ThrowingSupplier","package":"net.minecraft.world.level.chunk.storage","fqn":"net.minecraft.world.level.chunk.storage.IOWorker$ThrowingSupplier","type":"interface","members":["public abstract T get() throws java.lang.Exception;"],"references":[],"usages":[]}

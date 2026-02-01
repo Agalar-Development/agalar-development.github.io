@@ -1,0 +1,1 @@
+{"name":"ColorMapColorUtil","package":"net.minecraft.world.level","fqn":"net.minecraft.world.level.ColorMapColorUtil","type":"interface","members":["public static int get(double, double, int[], int);"],"references":[],"usages":[]}

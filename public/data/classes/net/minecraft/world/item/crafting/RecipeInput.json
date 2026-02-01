@@ -1,0 +1,1 @@
+{"name":"RecipeInput","package":"net.minecraft.world.item.crafting","fqn":"net.minecraft.world.item.crafting.RecipeInput","type":"interface","members":["public abstract net.minecraft.world.item.ItemStack getItem(int);","public abstract int size();","public default boolean isEmpty();"],"references":["net.minecraft.world.item.ItemStack.isEmpty"],"usages":[]}

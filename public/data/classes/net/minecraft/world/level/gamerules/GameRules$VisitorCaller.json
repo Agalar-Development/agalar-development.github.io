@@ -1,0 +1,1 @@
+{"name":"GameRules$VisitorCaller","package":"net.minecraft.world.level.gamerules","fqn":"net.minecraft.world.level.gamerules.GameRules$VisitorCaller","type":"interface","members":["public abstract void call(net.minecraft.world.level.gamerules.GameRuleTypeVisitor, net.minecraft.world.level.gamerules.GameRule<T>);"],"references":[],"usages":[]}

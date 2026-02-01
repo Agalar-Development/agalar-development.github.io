@@ -1,0 +1,1 @@
+{"name":"MenuType$MenuSupplier","package":"net.minecraft.world.inventory","fqn":"net.minecraft.world.inventory.MenuType$MenuSupplier","type":"interface","members":["public abstract T create(int, net.minecraft.world.entity.player.Inventory);"],"references":[],"usages":[]}

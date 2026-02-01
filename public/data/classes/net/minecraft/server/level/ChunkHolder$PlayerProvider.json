@@ -1,0 +1,1 @@
+{"name":"ChunkHolder$PlayerProvider","package":"net.minecraft.server.level","fqn":"net.minecraft.server.level.ChunkHolder$PlayerProvider","type":"interface","members":["public abstract java.util.List<net.minecraft.server.level.ServerPlayer> getPlayers(net.minecraft.world.level.ChunkPos, boolean);"],"references":[],"usages":[]}

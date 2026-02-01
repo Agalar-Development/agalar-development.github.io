@@ -1,0 +1,1 @@
+{"name":"BookContent","package":"net.minecraft.world.item.component","fqn":"net.minecraft.world.item.component.BookContent","type":"interface","members":["public abstract java.util.List<net.minecraft.server.network.Filterable<T>> pages();","public abstract C withReplacedPages(java.util.List<net.minecraft.server.network.Filterable<T>>);"],"references":[],"usages":[]}

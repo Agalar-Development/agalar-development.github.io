@@ -1,0 +1,1 @@
+{"name":"Blender$DistanceGetter","package":"net.minecraft.world.level.levelgen.blending","fqn":"net.minecraft.world.level.levelgen.blending.Blender$DistanceGetter","type":"interface","members":["public abstract double getDistance(double, double, double);"],"references":[],"usages":["net.minecraft.world.level.levelgen.blending.Blender"]}

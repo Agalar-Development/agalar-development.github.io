@@ -1,0 +1,1 @@
+{"name":"TimeSource","package":"net.minecraft.util","fqn":"net.minecraft.util.TimeSource","type":"interface","members":["public abstract long get(java.util.concurrent.TimeUnit);"],"references":[],"usages":[]}

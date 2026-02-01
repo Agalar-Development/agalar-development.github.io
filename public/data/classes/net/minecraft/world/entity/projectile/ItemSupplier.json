@@ -1,0 +1,1 @@
+{"name":"ItemSupplier","package":"net.minecraft.world.entity.projectile","fqn":"net.minecraft.world.entity.projectile.ItemSupplier","type":"interface","members":["public abstract net.minecraft.world.item.ItemStack getItem();"],"references":[],"usages":["net.minecraft.client.renderer.entity.ThrownItemRenderer"]}

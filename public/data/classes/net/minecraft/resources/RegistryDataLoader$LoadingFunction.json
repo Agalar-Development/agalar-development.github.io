@@ -1,0 +1,1 @@
+{"name":"RegistryDataLoader$LoadingFunction","package":"net.minecraft.resources","fqn":"net.minecraft.resources.RegistryDataLoader$LoadingFunction","type":"interface","members":["public abstract void apply(net.minecraft.resources.RegistryDataLoader$Loader<?>, net.minecraft.resources.RegistryOps$RegistryInfoLookup);"],"references":[],"usages":[]}

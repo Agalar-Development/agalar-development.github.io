@@ -1,0 +1,1 @@
+{"name":"SnbtGrammar$4","package":"net.minecraft.nbt","fqn":"net.minecraft.nbt.SnbtGrammar$4","type":"class","members":["net.minecraft.nbt.SnbtGrammar$4(int, net.minecraft.util.parsing.packrat.DelayedException);","protected boolean isAccepted(char);"],"references":["net.minecraft.util.parsing.packrat.commands.GreedyPredicateParseRule"],"usages":["net.minecraft.nbt.SnbtGrammar"]}

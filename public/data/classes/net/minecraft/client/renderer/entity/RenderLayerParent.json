@@ -1,0 +1,1 @@
+{"name":"RenderLayerParent","package":"net.minecraft.client.renderer.entity","fqn":"net.minecraft.client.renderer.entity.RenderLayerParent","type":"interface","members":["public abstract M getModel();"],"references":[],"usages":[]}

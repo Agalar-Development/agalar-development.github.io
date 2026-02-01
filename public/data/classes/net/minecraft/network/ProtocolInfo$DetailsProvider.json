@@ -1,0 +1,1 @@
+{"name":"ProtocolInfo$DetailsProvider","package":"net.minecraft.network","fqn":"net.minecraft.network.ProtocolInfo$DetailsProvider","type":"interface","members":["public abstract net.minecraft.network.ProtocolInfo$Details details();"],"references":[],"usages":["net.minecraft.data.info.PacketReport"]}

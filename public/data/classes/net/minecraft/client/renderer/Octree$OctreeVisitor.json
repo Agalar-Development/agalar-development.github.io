@@ -1,0 +1,1 @@
+{"name":"Octree$OctreeVisitor","package":"net.minecraft.client.renderer","fqn":"net.minecraft.client.renderer.Octree$OctreeVisitor","type":"interface","members":["public abstract void visit(net.minecraft.client.renderer.Octree$Node, boolean, int, boolean);"],"references":[],"usages":[]}

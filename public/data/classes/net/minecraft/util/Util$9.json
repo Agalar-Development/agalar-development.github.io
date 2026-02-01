@@ -1,0 +1,1 @@
+{"name":"Util$9","package":"net.minecraft.util","fqn":"net.minecraft.util.Util$9","type":"class","members":["net.minecraft.util.Util$9(java.lang.String);","public void run();"],"references":["net.minecraft.util.Util.LOGGER","org.slf4j.Logger.warn"],"usages":["net.minecraft.util.Util"]}

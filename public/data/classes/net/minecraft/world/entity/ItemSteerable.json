@@ -1,0 +1,1 @@
+{"name":"ItemSteerable","package":"net.minecraft.world.entity","fqn":"net.minecraft.world.entity.ItemSteerable","type":"interface","members":["public abstract boolean boost();"],"references":[],"usages":["net.minecraft.world.item.FoodOnAStickItem"]}

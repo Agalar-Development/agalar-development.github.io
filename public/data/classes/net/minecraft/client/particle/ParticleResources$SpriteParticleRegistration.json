@@ -1,0 +1,1 @@
+{"name":"ParticleResources$SpriteParticleRegistration","package":"net.minecraft.client.particle","fqn":"net.minecraft.client.particle.ParticleResources$SpriteParticleRegistration","type":"interface","members":["public abstract net.minecraft.client.particle.ParticleProvider<T> create(net.minecraft.client.particle.SpriteSet);"],"references":[],"usages":[]}

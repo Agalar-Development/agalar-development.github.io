@@ -1,0 +1,1 @@
+{"name":"TrackedWaypoint$Projector","package":"net.minecraft.world.waypoints","fqn":"net.minecraft.world.waypoints.TrackedWaypoint$Projector","type":"interface","members":["public abstract net.minecraft.world.phys.Vec3 projectPointToScreen(net.minecraft.world.phys.Vec3);","public abstract double projectHorizonToScreen();"],"references":[],"usages":[]}

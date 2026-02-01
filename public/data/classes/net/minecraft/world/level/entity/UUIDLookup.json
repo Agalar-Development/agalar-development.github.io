@@ -1,0 +1,1 @@
+{"name":"UUIDLookup","package":"net.minecraft.world.level.entity","fqn":"net.minecraft.world.level.entity.UUIDLookup","type":"interface","members":["public abstract IdentifiedType lookup(java.util.UUID);"],"references":[],"usages":[]}

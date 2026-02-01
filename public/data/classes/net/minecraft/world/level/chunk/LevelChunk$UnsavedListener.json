@@ -1,0 +1,1 @@
+{"name":"LevelChunk$UnsavedListener","package":"net.minecraft.world.level.chunk","fqn":"net.minecraft.world.level.chunk.LevelChunk$UnsavedListener","type":"interface","members":["public abstract void setUnsaved(net.minecraft.world.level.ChunkPos);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"Crypt$ByteArrayToKeyFunction","package":"net.minecraft.util","fqn":"net.minecraft.util.Crypt$ByteArrayToKeyFunction","type":"interface","members":["public abstract T apply(byte[]) throws net.minecraft.util.CryptException;"],"references":[],"usages":[]}

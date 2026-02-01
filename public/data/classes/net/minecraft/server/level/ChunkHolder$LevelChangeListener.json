@@ -1,0 +1,1 @@
+{"name":"ChunkHolder$LevelChangeListener","package":"net.minecraft.server.level","fqn":"net.minecraft.server.level.ChunkHolder$LevelChangeListener","type":"interface","members":["public abstract void onLevelChange(net.minecraft.world.level.ChunkPos, java.util.function.IntSupplier, int, java.util.function.IntConsumer);"],"references":[],"usages":[]}

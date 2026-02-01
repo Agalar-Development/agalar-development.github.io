@@ -1,0 +1,1 @@
+{"name":"GameProtocols$Context","package":"net.minecraft.network.protocol.game","fqn":"net.minecraft.network.protocol.game.GameProtocols$Context","type":"interface","members":["public abstract boolean hasInfiniteMaterials();"],"references":[],"usages":[]}

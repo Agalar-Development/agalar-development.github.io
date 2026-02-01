@@ -1,0 +1,1 @@
+{"name":"PredictiveAction","package":"net.minecraft.client.multiplayer.prediction","fqn":"net.minecraft.client.multiplayer.prediction.PredictiveAction","type":"interface","members":["public abstract net.minecraft.network.protocol.Packet<net.minecraft.network.protocol.game.ServerGamePacketListener> predict(int);"],"references":[],"usages":[]}

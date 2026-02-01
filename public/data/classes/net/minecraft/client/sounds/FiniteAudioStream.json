@@ -1,0 +1,1 @@
+{"name":"FiniteAudioStream","package":"net.minecraft.client.sounds","fqn":"net.minecraft.client.sounds.FiniteAudioStream","type":"interface","members":["public abstract java.nio.ByteBuffer readAll() throws java.io.IOException;"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"WorldLoader$WorldDataSupplier","package":"net.minecraft.server","fqn":"net.minecraft.server.WorldLoader$WorldDataSupplier","type":"interface","members":["public abstract net.minecraft.server.WorldLoader$DataLoadOutput<D> get(net.minecraft.server.WorldLoader$DataLoadContext);"],"references":[],"usages":[]}

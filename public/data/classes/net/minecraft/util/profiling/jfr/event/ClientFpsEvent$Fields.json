@@ -1,0 +1,1 @@
+{"name":"ClientFpsEvent$Fields","package":"net.minecraft.util.profiling.jfr.event","fqn":"net.minecraft.util.profiling.jfr.event.ClientFpsEvent$Fields","type":"class","members":["public static final java.lang.String FPS;","private net.minecraft.util.profiling.jfr.event.ClientFpsEvent$Fields();"],"references":[],"usages":[]}

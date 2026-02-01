@@ -1,0 +1,1 @@
+{"name":"Util$OS$1","package":"net.minecraft.util","fqn":"net.minecraft.util.Util$OS$1","type":"class","members":["private net.minecraft.util.Util$OS$1(java.lang.String, int, java.lang.String);","protected java.lang.String[] getOpenUriArguments(java.net.URI);"],"references":["net.minecraft.util.Util$OS"],"usages":["net.minecraft.util.Util$OS"]}

@@ -1,0 +1,1 @@
+{"name":"TagType$VariableSize","package":"net.minecraft.nbt","fqn":"net.minecraft.nbt.TagType$VariableSize","type":"interface","members":["public default void skip(java.io.DataInput, int, net.minecraft.nbt.NbtAccounter) throws java.io.IOException;"],"references":[],"usages":[]}

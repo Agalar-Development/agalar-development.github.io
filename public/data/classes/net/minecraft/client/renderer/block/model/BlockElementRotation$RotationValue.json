@@ -1,0 +1,1 @@
+{"name":"BlockElementRotation$RotationValue","package":"net.minecraft.client.renderer.block.model","fqn":"net.minecraft.client.renderer.block.model.BlockElementRotation$RotationValue","type":"interface","members":["public abstract org.joml.Matrix4f transformation();"],"references":[],"usages":[]}

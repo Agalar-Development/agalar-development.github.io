@@ -1,0 +1,1 @@
+{"name":"LidBlockEntity","package":"net.minecraft.world.level.block.entity","fqn":"net.minecraft.world.level.block.entity.LidBlockEntity","type":"interface","members":["public abstract float getOpenNess(float);"],"references":[],"usages":["net.minecraft.client.renderer.blockentity.ChestRenderer"]}

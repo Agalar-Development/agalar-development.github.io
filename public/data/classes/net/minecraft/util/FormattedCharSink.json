@@ -1,0 +1,1 @@
+{"name":"FormattedCharSink","package":"net.minecraft.util","fqn":"net.minecraft.util.FormattedCharSink","type":"interface","members":["public abstract boolean accept(int, net.minecraft.network.chat.Style, int);"],"references":[],"usages":[]}

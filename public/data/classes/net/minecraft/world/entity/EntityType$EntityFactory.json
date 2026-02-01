@@ -1,0 +1,1 @@
+{"name":"EntityType$EntityFactory","package":"net.minecraft.world.entity","fqn":"net.minecraft.world.entity.EntityType$EntityFactory","type":"interface","members":["public abstract T create(net.minecraft.world.entity.EntityType<T>, net.minecraft.world.level.Level);"],"references":[],"usages":[]}

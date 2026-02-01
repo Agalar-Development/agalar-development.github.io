@@ -1,0 +1,1 @@
+{"name":"DataProvider$Factory","package":"net.minecraft.data","fqn":"net.minecraft.data.DataProvider$Factory","type":"interface","members":["public abstract T create(net.minecraft.data.PackOutput);"],"references":[],"usages":[]}

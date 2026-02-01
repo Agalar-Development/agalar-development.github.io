@@ -1,0 +1,1 @@
+{"name":"RenderSystem$AutoStorageIndexBuffer$IndexGenerator","package":"com.mojang.blaze3d.systems","fqn":"com.mojang.blaze3d.systems.RenderSystem$AutoStorageIndexBuffer$IndexGenerator","type":"interface","members":["public abstract void accept(it.unimi.dsi.fastutil.ints.IntConsumer, int);"],"references":[],"usages":[]}

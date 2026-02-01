@@ -1,0 +1,1 @@
+{"name":"Gizmo","package":"net.minecraft.gizmos","fqn":"net.minecraft.gizmos.Gizmo","type":"interface","members":["public abstract void emit(net.minecraft.gizmos.GizmoPrimitives, float);"],"references":[],"usages":[]}

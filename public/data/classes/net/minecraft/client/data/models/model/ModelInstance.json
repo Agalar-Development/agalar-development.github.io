@@ -1,0 +1,1 @@
+{"name":"ModelInstance","package":"net.minecraft.client.data.models.model","fqn":"net.minecraft.client.data.models.model.ModelInstance","type":"interface","members":[],"references":[],"usages":["net.minecraft.client.data.models.ModelProvider$SimpleModelCollector"]}

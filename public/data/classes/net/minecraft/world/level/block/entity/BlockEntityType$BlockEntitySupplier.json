@@ -1,0 +1,1 @@
+{"name":"BlockEntityType$BlockEntitySupplier","package":"net.minecraft.world.level.block.entity","fqn":"net.minecraft.world.level.block.entity.BlockEntityType$BlockEntitySupplier","type":"interface","members":["public abstract T create(net.minecraft.core.BlockPos, net.minecraft.world.level.block.state.BlockState);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"ChatTypeDecoration$Parameter$Selector","package":"net.minecraft.network.chat","fqn":"net.minecraft.network.chat.ChatTypeDecoration$Parameter$Selector","type":"interface","members":["public abstract net.minecraft.network.chat.Component select(net.minecraft.network.chat.Component, net.minecraft.network.chat.ChatType$Bound);"],"references":[],"usages":[]}

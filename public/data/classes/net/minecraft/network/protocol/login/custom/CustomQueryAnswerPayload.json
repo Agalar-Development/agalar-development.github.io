@@ -1,0 +1,1 @@
+{"name":"CustomQueryAnswerPayload","package":"net.minecraft.network.protocol.login.custom","fqn":"net.minecraft.network.protocol.login.custom.CustomQueryAnswerPayload","type":"interface","members":["public abstract void write(net.minecraft.network.FriendlyByteBuf);"],"references":[],"usages":[]}

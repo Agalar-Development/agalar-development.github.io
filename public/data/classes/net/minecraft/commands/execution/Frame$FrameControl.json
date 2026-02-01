@@ -1,0 +1,1 @@
+{"name":"Frame$FrameControl","package":"net.minecraft.commands.execution","fqn":"net.minecraft.commands.execution.Frame$FrameControl","type":"interface","members":["public abstract void discard();"],"references":[],"usages":[]}

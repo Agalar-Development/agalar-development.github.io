@@ -1,0 +1,1 @@
+{"name":"ServerboundPacketListener","package":"net.minecraft.network","fqn":"net.minecraft.network.ServerboundPacketListener","type":"interface","members":["public default net.minecraft.network.protocol.PacketFlow flow();"],"references":["net.minecraft.network.protocol.PacketFlow.SERVERBOUND"],"usages":[]}

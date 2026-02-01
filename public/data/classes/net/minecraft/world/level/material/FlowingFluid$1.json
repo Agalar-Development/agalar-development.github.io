@@ -1,0 +1,1 @@
+{"name":"FlowingFluid$1","package":"net.minecraft.world.level.material","fqn":"net.minecraft.world.level.material.FlowingFluid$1","type":"class","members":["net.minecraft.world.level.material.FlowingFluid$1(int);","protected void rehash(int);"],"references":["it.unimi.dsi.fastutil.objects.Object2ByteLinkedOpenHashMap"],"usages":["net.minecraft.world.level.material.FlowingFluid"]}

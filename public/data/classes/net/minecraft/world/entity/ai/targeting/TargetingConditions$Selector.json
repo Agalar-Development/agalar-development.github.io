@@ -1,0 +1,1 @@
+{"name":"TargetingConditions$Selector","package":"net.minecraft.world.entity.ai.targeting","fqn":"net.minecraft.world.entity.ai.targeting.TargetingConditions$Selector","type":"interface","members":["public abstract boolean test(net.minecraft.world.entity.LivingEntity, net.minecraft.server.level.ServerLevel);"],"references":[],"usages":[]}

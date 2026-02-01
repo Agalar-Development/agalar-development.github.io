@@ -1,0 +1,1 @@
+{"name":"VillagerLikeModel","package":"net.minecraft.client.model","fqn":"net.minecraft.client.model.VillagerLikeModel","type":"interface","members":["public abstract void translateToArms(T, com.mojang.blaze3d.vertex.PoseStack);"],"references":[],"usages":["net.minecraft.client.renderer.entity.layers.CrossedArmsItemLayer"]}

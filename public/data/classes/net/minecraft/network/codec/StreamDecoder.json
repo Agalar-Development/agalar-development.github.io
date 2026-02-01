@@ -1,0 +1,1 @@
+{"name":"StreamDecoder","package":"net.minecraft.network.codec","fqn":"net.minecraft.network.codec.StreamDecoder","type":"interface","members":["public abstract T decode(I);"],"references":[],"usages":[]}

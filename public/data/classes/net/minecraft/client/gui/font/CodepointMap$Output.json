@@ -1,0 +1,1 @@
+{"name":"CodepointMap$Output","package":"net.minecraft.client.gui.font","fqn":"net.minecraft.client.gui.font.CodepointMap$Output","type":"interface","members":["public abstract void accept(int, T);"],"references":[],"usages":[]}

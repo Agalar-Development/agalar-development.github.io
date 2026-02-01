@@ -1,0 +1,1 @@
+{"name":"EntityDataSerializer$ForValueType","package":"net.minecraft.network.syncher","fqn":"net.minecraft.network.syncher.EntityDataSerializer$ForValueType","type":"interface","members":["public default T copy(T);"],"references":[],"usages":[]}

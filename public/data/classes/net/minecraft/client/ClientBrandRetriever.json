@@ -1,0 +1,1 @@
+{"name":"ClientBrandRetriever","package":"net.minecraft.client","fqn":"net.minecraft.client.ClientBrandRetriever","type":"class","members":["public static final java.lang.String VANILLA_NAME;","public net.minecraft.client.ClientBrandRetriever();","public static java.lang.String getClientModName();"],"references":[],"usages":[]}

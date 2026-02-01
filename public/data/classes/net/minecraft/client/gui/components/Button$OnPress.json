@@ -1,0 +1,1 @@
+{"name":"Button$OnPress","package":"net.minecraft.client.gui.components","fqn":"net.minecraft.client.gui.components.Button$OnPress","type":"interface","members":["public abstract void onPress(net.minecraft.client.gui.components.Button);"],"references":[],"usages":[]}

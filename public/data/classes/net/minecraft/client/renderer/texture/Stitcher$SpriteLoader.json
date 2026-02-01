@@ -1,0 +1,1 @@
+{"name":"Stitcher$SpriteLoader","package":"net.minecraft.client.renderer.texture","fqn":"net.minecraft.client.renderer.texture.Stitcher$SpriteLoader","type":"interface","members":["public abstract void load(T, int, int, int);"],"references":[],"usages":[]}

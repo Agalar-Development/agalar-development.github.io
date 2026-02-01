@@ -1,0 +1,1 @@
+{"name":"SoundEventListener","package":"net.minecraft.client.sounds","fqn":"net.minecraft.client.sounds.SoundEventListener","type":"interface","members":["public abstract void onPlaySound(net.minecraft.client.resources.sounds.SoundInstance, net.minecraft.client.sounds.WeighedSoundEvents, float);"],"references":[],"usages":["net.minecraft.client.sounds.SoundEngine"]}

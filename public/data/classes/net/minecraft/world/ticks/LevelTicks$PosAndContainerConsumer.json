@@ -1,0 +1,1 @@
+{"name":"LevelTicks$PosAndContainerConsumer","package":"net.minecraft.world.ticks","fqn":"net.minecraft.world.ticks.LevelTicks$PosAndContainerConsumer","type":"interface","members":["public abstract void accept(long, net.minecraft.world.ticks.LevelChunkTicks<T>);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"ResourceDescriptor","package":"com.mojang.blaze3d.resource","fqn":"com.mojang.blaze3d.resource.ResourceDescriptor","type":"interface","members":["public abstract T allocate();","public default void prepare(T);","public abstract void free(T);","public default boolean canUsePhysicalResource(com.mojang.blaze3d.resource.ResourceDescriptor<?>);"],"references":[],"usages":[]}

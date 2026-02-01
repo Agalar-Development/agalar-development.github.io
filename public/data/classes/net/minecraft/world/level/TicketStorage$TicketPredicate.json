@@ -1,0 +1,1 @@
+{"name":"TicketStorage$TicketPredicate","package":"net.minecraft.world.level","fqn":"net.minecraft.world.level.TicketStorage$TicketPredicate","type":"interface","members":["public abstract boolean test(net.minecraft.server.level.Ticket, long);"],"references":[],"usages":[]}

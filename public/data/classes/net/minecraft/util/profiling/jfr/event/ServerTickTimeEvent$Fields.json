@@ -1,0 +1,1 @@
+{"name":"ServerTickTimeEvent$Fields","package":"net.minecraft.util.profiling.jfr.event","fqn":"net.minecraft.util.profiling.jfr.event.ServerTickTimeEvent$Fields","type":"class","members":["public static final java.lang.String AVERAGE_TICK_DURATION;","private net.minecraft.util.profiling.jfr.event.ServerTickTimeEvent$Fields();"],"references":[],"usages":[]}

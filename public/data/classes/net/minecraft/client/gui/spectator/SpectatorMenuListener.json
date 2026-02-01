@@ -1,0 +1,1 @@
+{"name":"SpectatorMenuListener","package":"net.minecraft.client.gui.spectator","fqn":"net.minecraft.client.gui.spectator.SpectatorMenuListener","type":"interface","members":["public abstract void onSpectatorMenuClosed(net.minecraft.client.gui.spectator.SpectatorMenu);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"ProblemReporter$Problem","package":"net.minecraft.util","fqn":"net.minecraft.util.ProblemReporter$Problem","type":"interface","members":["public abstract java.lang.String description();"],"references":[],"usages":["net.minecraft.util.ProblemReporter$Collector$ProblemTreeNode"]}

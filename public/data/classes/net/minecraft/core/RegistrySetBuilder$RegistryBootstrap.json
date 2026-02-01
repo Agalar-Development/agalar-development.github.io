@@ -1,0 +1,1 @@
+{"name":"RegistrySetBuilder$RegistryBootstrap","package":"net.minecraft.core","fqn":"net.minecraft.core.RegistrySetBuilder$RegistryBootstrap","type":"interface","members":["public abstract void run(net.minecraft.data.worldgen.BootstrapContext<T>);"],"references":[],"usages":[]}

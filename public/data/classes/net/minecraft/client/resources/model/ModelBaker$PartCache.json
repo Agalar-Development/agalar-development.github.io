@@ -1,0 +1,1 @@
+{"name":"ModelBaker$PartCache","package":"net.minecraft.client.resources.model","fqn":"net.minecraft.client.resources.model.ModelBaker$PartCache","type":"interface","members":["public default org.joml.Vector3fc vector(float, float, float);","public abstract org.joml.Vector3fc vector(org.joml.Vector3fc);"],"references":["org.joml.Vector3f"],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"FillCommand$NullableCommandFunction","package":"net.minecraft.server.commands","fqn":"net.minecraft.server.commands.FillCommand$NullableCommandFunction","type":"interface","members":["public abstract R apply(T) throws com.mojang.brigadier.exceptions.CommandSyntaxException;"],"references":[],"usages":[]}

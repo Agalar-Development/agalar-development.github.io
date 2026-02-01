@@ -1,0 +1,1 @@
+{"name":"GpuBuffer$MappedView","package":"com.mojang.blaze3d.buffers","fqn":"com.mojang.blaze3d.buffers.GpuBuffer$MappedView","type":"interface","members":["public abstract java.nio.ByteBuffer data();","public abstract void close();"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"IncomingRpcMethod$ParameterlessRpcMethodFunction","package":"net.minecraft.server.jsonrpc","fqn":"net.minecraft.server.jsonrpc.IncomingRpcMethod$ParameterlessRpcMethodFunction","type":"interface","members":["public abstract Result apply(net.minecraft.server.jsonrpc.internalapi.MinecraftApi, net.minecraft.server.jsonrpc.methods.ClientInfo);"],"references":[],"usages":[]}

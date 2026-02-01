@@ -1,0 +1,1 @@
+{"name":"CycleButton$SpriteSupplier","package":"net.minecraft.client.gui.components","fqn":"net.minecraft.client.gui.components.CycleButton$SpriteSupplier","type":"interface","members":["public abstract net.minecraft.resources.Identifier apply(net.minecraft.client.gui.components.CycleButton<T>, T);"],"references":[],"usages":[]}

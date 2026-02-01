@@ -1,0 +1,1 @@
+{"name":"NestedLootTable$1","package":"net.minecraft.world.level.storage.loot.entries","fqn":"net.minecraft.world.level.storage.loot.entries.NestedLootTable$1","type":"class","members":["net.minecraft.world.level.storage.loot.entries.NestedLootTable$1();","public java.lang.String get();"],"references":[],"usages":["net.minecraft.world.level.storage.loot.entries.NestedLootTable"]}

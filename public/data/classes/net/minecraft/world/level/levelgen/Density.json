@@ -1,0 +1,1 @@
+{"name":"Density","package":"net.minecraft.world.level.levelgen","fqn":"net.minecraft.world.level.levelgen.Density","type":"class","members":["public static final double SURFACE;","public static final double UNRECOVERABLY_DENSE;","public static final double UNRECOVERABLY_THIN;","public net.minecraft.world.level.levelgen.Density();"],"references":[],"usages":[]}

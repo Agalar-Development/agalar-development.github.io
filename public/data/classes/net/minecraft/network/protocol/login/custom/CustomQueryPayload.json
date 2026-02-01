@@ -1,0 +1,1 @@
+{"name":"CustomQueryPayload","package":"net.minecraft.network.protocol.login.custom","fqn":"net.minecraft.network.protocol.login.custom.CustomQueryPayload","type":"interface","members":["public abstract net.minecraft.resources.Identifier id();","public abstract void write(net.minecraft.network.FriendlyByteBuf);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"BlockModelPart$Unbaked","package":"net.minecraft.client.renderer.block.model","fqn":"net.minecraft.client.renderer.block.model.BlockModelPart$Unbaked","type":"interface","members":["public abstract net.minecraft.client.renderer.block.model.BlockModelPart bake(net.minecraft.client.resources.model.ModelBaker);"],"references":[],"usages":[]}

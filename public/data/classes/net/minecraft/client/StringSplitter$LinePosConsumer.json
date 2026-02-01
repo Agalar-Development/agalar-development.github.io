@@ -1,0 +1,1 @@
+{"name":"StringSplitter$LinePosConsumer","package":"net.minecraft.client","fqn":"net.minecraft.client.StringSplitter$LinePosConsumer","type":"interface","members":["public abstract void accept(net.minecraft.network.chat.Style, int, int);"],"references":[],"usages":[]}

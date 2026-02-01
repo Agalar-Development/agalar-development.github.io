@@ -1,0 +1,1 @@
+{"name":"QuadParticleRenderState$ParticleConsumer","package":"net.minecraft.client.renderer.state","fqn":"net.minecraft.client.renderer.state.QuadParticleRenderState$ParticleConsumer","type":"interface","members":["public abstract void consume(float, float, float, float, float, float, float, float, float, float, float, float, int, int);"],"references":[],"usages":[]}

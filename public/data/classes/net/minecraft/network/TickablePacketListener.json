@@ -1,0 +1,1 @@
+{"name":"TickablePacketListener","package":"net.minecraft.network","fqn":"net.minecraft.network.TickablePacketListener","type":"interface","members":["public abstract void tick();"],"references":[],"usages":["net.minecraft.network.Connection"]}

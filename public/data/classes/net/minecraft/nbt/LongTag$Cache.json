@@ -1,0 +1,1 @@
+{"name":"LongTag$Cache","package":"net.minecraft.nbt","fqn":"net.minecraft.nbt.LongTag$Cache","type":"class","members":["private static final int HIGH;","private static final int LOW;","static final net.minecraft.nbt.LongTag[] cache;","private net.minecraft.nbt.LongTag$Cache();","static {};"],"references":["net.minecraft.nbt.LongTag"],"usages":[]}

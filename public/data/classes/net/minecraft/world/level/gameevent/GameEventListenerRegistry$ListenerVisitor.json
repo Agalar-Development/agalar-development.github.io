@@ -1,0 +1,1 @@
+{"name":"GameEventListenerRegistry$ListenerVisitor","package":"net.minecraft.world.level.gameevent","fqn":"net.minecraft.world.level.gameevent.GameEventListenerRegistry$ListenerVisitor","type":"interface","members":["public abstract void visit(net.minecraft.world.level.gameevent.GameEventListener, net.minecraft.world.phys.Vec3);"],"references":[],"usages":[]}

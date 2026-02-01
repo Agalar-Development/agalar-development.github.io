@@ -1,0 +1,1 @@
+{"name":"Util$10","package":"net.minecraft.util","fqn":"net.minecraft.util.Util$10","type":"class","members":["private final java.util.Map<T, R> cache;","final java.util.function.Function val$function;","net.minecraft.util.Util$10(java.util.function.Function);","public R apply(T);","public java.lang.String toString();"],"references":[],"usages":["net.minecraft.util.Util"]}

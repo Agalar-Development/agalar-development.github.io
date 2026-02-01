@@ -1,0 +1,1 @@
+{"name":"WindowEventHandler","package":"com.mojang.blaze3d.platform","fqn":"com.mojang.blaze3d.platform.WindowEventHandler","type":"interface","members":["public abstract void setWindowActive(boolean);","public abstract void resizeDisplay();","public abstract void cursorEntered();"],"references":[],"usages":[]}

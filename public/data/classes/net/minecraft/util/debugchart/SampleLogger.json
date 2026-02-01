@@ -1,0 +1,1 @@
+{"name":"SampleLogger","package":"net.minecraft.util.debugchart","fqn":"net.minecraft.util.debugchart.SampleLogger","type":"interface","members":["public abstract void logFullSample(long[]);","public abstract void logSample(long);","public abstract void logPartialSample(long, int);"],"references":[],"usages":[]}

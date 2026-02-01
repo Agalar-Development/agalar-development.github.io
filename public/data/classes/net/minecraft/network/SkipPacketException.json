@@ -1,0 +1,1 @@
+{"name":"SkipPacketException","package":"net.minecraft.network","fqn":"net.minecraft.network.SkipPacketException","type":"interface","members":[],"references":[],"usages":["net.minecraft.network.Connection","net.minecraft.network.PacketDecoder"]}

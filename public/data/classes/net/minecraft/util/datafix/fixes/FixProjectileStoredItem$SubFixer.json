@@ -1,0 +1,1 @@
+{"name":"FixProjectileStoredItem$SubFixer","package":"net.minecraft.util.datafix.fixes","fqn":"net.minecraft.util.datafix.fixes.FixProjectileStoredItem$SubFixer","type":"interface","members":["public abstract com.mojang.datafixers.Typed<F> fix(com.mojang.datafixers.Typed<?>, com.mojang.datafixers.types.Type<F>);"],"references":[],"usages":[]}

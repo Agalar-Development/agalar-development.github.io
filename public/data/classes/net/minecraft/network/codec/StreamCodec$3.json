@@ -1,0 +1,1 @@
+{"name":"StreamCodec$3","package":"net.minecraft.network.codec","fqn":"net.minecraft.network.codec.StreamCodec$3","type":"class","members":["final java.lang.Object val$instance;","net.minecraft.network.codec.StreamCodec$3(java.lang.Object);","public V decode(B);","public void encode(B, V);"],"references":[],"usages":["net.minecraft.network.codec.StreamCodec"]}

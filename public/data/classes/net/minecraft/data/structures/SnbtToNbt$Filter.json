@@ -1,0 +1,1 @@
+{"name":"SnbtToNbt$Filter","package":"net.minecraft.data.structures","fqn":"net.minecraft.data.structures.SnbtToNbt$Filter","type":"interface","members":["public abstract net.minecraft.nbt.CompoundTag apply(java.lang.String, net.minecraft.nbt.CompoundTag);"],"references":[],"usages":["net.minecraft.data.structures.SnbtToNbt"]}

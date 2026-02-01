@@ -1,0 +1,1 @@
+{"name":"WritableLevelData","package":"net.minecraft.world.level.storage","fqn":"net.minecraft.world.level.storage.WritableLevelData","type":"interface","members":["public abstract void setSpawn(net.minecraft.world.level.storage.LevelData$RespawnData);"],"references":[],"usages":[]}

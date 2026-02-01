@@ -1,0 +1,1 @@
+{"name":"MemoryReserve","package":"net.minecraft.util","fqn":"net.minecraft.util.MemoryReserve","type":"class","members":["private static byte[] reserve;","public net.minecraft.util.MemoryReserve();","public static void allocate();","public static void release();"],"references":[],"usages":[]}

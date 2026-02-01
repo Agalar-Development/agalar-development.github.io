@@ -1,0 +1,1 @@
+{"name":"PaletteResize","package":"net.minecraft.world.level.chunk","fqn":"net.minecraft.world.level.chunk.PaletteResize","type":"interface","members":["public abstract int onResize(int, T);","public static <T> net.minecraft.world.level.chunk.PaletteResize<T> noResizeExpected();","private static int lambda$noResizeExpected$0(int, java.lang.Object);"],"references":[],"usages":[]}

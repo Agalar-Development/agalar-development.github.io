@@ -1,0 +1,1 @@
+{"name":"StructurePlacement$FrequencyReducer","package":"net.minecraft.world.level.levelgen.structure.placement","fqn":"net.minecraft.world.level.levelgen.structure.placement.StructurePlacement$FrequencyReducer","type":"interface","members":["public abstract boolean shouldGenerate(long, int, int, int, float);"],"references":[],"usages":[]}

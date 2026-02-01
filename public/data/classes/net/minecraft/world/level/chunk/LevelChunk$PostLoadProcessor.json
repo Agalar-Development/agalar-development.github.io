@@ -1,0 +1,1 @@
+{"name":"LevelChunk$PostLoadProcessor","package":"net.minecraft.world.level.chunk","fqn":"net.minecraft.world.level.chunk.LevelChunk$PostLoadProcessor","type":"interface","members":["public abstract void run(net.minecraft.world.level.chunk.LevelChunk);"],"references":[],"usages":[]}

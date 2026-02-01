@@ -1,0 +1,1 @@
+{"name":"FeatureFlagUniverse","package":"net.minecraft.world.flag","fqn":"net.minecraft.world.flag.FeatureFlagUniverse","type":"class","members":["private final java.lang.String id;","public net.minecraft.world.flag.FeatureFlagUniverse(java.lang.String);","public java.lang.String toString();"],"references":[],"usages":["net.minecraft.world.flag.FeatureFlagRegistry$Builder"]}

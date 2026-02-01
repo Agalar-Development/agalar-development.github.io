@@ -1,0 +1,1 @@
+{"name":"SampleStorage","package":"net.minecraft.util.debugchart","fqn":"net.minecraft.util.debugchart.SampleStorage","type":"interface","members":["public abstract int capacity();","public abstract int size();","public abstract long get(int);","public abstract long get(int, int);","public abstract void reset();"],"references":[],"usages":[]}

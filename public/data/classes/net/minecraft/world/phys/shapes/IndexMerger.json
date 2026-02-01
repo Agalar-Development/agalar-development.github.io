@@ -1,0 +1,1 @@
+{"name":"IndexMerger","package":"net.minecraft.world.phys.shapes","fqn":"net.minecraft.world.phys.shapes.IndexMerger","type":"interface","members":["public abstract it.unimi.dsi.fastutil.doubles.DoubleList getList();","public abstract boolean forMergedIndexes(net.minecraft.world.phys.shapes.IndexMerger$IndexConsumer);","public abstract int size();"],"references":[],"usages":[]}

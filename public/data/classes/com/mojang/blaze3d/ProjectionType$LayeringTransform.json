@@ -1,0 +1,1 @@
+{"name":"ProjectionType$LayeringTransform","package":"com.mojang.blaze3d","fqn":"com.mojang.blaze3d.ProjectionType$LayeringTransform","type":"interface","members":["public abstract void apply(org.joml.Matrix4f, float);"],"references":[],"usages":[]}

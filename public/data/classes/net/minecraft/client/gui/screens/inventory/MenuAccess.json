@@ -1,0 +1,1 @@
+{"name":"MenuAccess","package":"net.minecraft.client.gui.screens.inventory","fqn":"net.minecraft.client.gui.screens.inventory.MenuAccess","type":"interface","members":["public abstract T getMenu();"],"references":[],"usages":["net.minecraft.client.gui.screens.MenuScreens$ScreenConstructor"]}

@@ -1,0 +1,1 @@
+{"name":"StreamMemberEncoder","package":"net.minecraft.network.codec","fqn":"net.minecraft.network.codec.StreamMemberEncoder","type":"interface","members":["public abstract void encode(T, O);"],"references":[],"usages":[]}

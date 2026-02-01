@@ -1,0 +1,1 @@
+{"name":"Consumable$OverrideConsumeSound","package":"net.minecraft.world.item.component","fqn":"net.minecraft.world.item.component.Consumable$OverrideConsumeSound","type":"interface","members":["public abstract net.minecraft.sounds.SoundEvent getConsumeSound(net.minecraft.world.item.ItemStack);"],"references":[],"usages":["net.minecraft.world.item.component.Consumable"]}

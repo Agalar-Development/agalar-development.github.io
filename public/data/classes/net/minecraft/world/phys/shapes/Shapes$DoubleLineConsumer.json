@@ -1,0 +1,1 @@
+{"name":"Shapes$DoubleLineConsumer","package":"net.minecraft.world.phys.shapes","fqn":"net.minecraft.world.phys.shapes.Shapes$DoubleLineConsumer","type":"interface","members":["public abstract void consume(double, double, double, double, double, double);"],"references":[],"usages":[]}

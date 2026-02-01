@@ -1,0 +1,1 @@
+{"name":"SampledFloat","package":"net.minecraft.util.valueproviders","fqn":"net.minecraft.util.valueproviders.SampledFloat","type":"interface","members":["public abstract float sample(net.minecraft.util.RandomSource);"],"references":[],"usages":["net.minecraft.client.sounds.SoundManager$Preparations$1"]}

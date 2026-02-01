@@ -1,0 +1,1 @@
+{"name":"Clearable","package":"net.minecraft.world","fqn":"net.minecraft.world.Clearable","type":"interface","members":["public abstract void clearContent();"],"references":[],"usages":[]}

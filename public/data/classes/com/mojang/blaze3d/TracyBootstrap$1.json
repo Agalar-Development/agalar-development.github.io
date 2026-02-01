@@ -1,0 +1,1 @@
+{"name":"TracyBootstrap$1","package":"com.mojang.blaze3d","fqn":"com.mojang.blaze3d.TracyBootstrap$1","type":"class","members":["static final int[] $SwitchMap$org$slf4j$event$Level;","static {};"],"references":["org.slf4j.event.Level.values","org.slf4j.event.Level.DEBUG","org.slf4j.event.Level.ordinal","org.slf4j.event.Level.WARN","org.slf4j.event.Level.ERROR"],"usages":[]}

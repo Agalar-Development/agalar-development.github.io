@@ -1,0 +1,1 @@
+{"name":"MenuConstructor","package":"net.minecraft.world.inventory","fqn":"net.minecraft.world.inventory.MenuConstructor","type":"interface","members":["public abstract net.minecraft.world.inventory.AbstractContainerMenu createMenu(int, net.minecraft.world.entity.player.Inventory, net.minecraft.world.entity.player.Player);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"ServerTextFilter$RequestFailedException","package":"net.minecraft.server.network","fqn":"net.minecraft.server.network.ServerTextFilter$RequestFailedException","type":"class","members":["protected net.minecraft.server.network.ServerTextFilter$RequestFailedException(java.lang.String);"],"references":[],"usages":["net.minecraft.server.network.ServerTextFilter"]}

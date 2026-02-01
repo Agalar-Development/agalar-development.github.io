@@ -1,0 +1,1 @@
+{"name":"PalettedContainer$CountConsumer","package":"net.minecraft.world.level.chunk","fqn":"net.minecraft.world.level.chunk.PalettedContainer$CountConsumer","type":"interface","members":["public abstract void accept(T, int);"],"references":[],"usages":[]}

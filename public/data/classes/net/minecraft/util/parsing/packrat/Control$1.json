@@ -1,0 +1,1 @@
+{"name":"Control$1","package":"net.minecraft.util.parsing.packrat","fqn":"net.minecraft.util.parsing.packrat.Control$1","type":"class","members":["net.minecraft.util.parsing.packrat.Control$1();","public void cut();","public boolean hasCut();"],"references":[],"usages":["net.minecraft.util.parsing.packrat.Control"]}

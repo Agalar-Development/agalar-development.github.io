@@ -1,0 +1,1 @@
+{"name":"DebugValueSource","package":"net.minecraft.util.debug","fqn":"net.minecraft.util.debug.DebugValueSource","type":"interface","members":["public abstract void registerDebugValues(net.minecraft.server.level.ServerLevel, net.minecraft.util.debug.DebugValueSource$Registration);"],"references":[],"usages":[]}

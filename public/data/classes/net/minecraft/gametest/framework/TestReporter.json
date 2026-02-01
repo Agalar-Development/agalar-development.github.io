@@ -1,0 +1,1 @@
+{"name":"TestReporter","package":"net.minecraft.gametest.framework","fqn":"net.minecraft.gametest.framework.TestReporter","type":"interface","members":["public abstract void onTestFailed(net.minecraft.gametest.framework.GameTestInfo);","public abstract void onTestSuccess(net.minecraft.gametest.framework.GameTestInfo);","public default void finish();"],"references":[],"usages":[]}

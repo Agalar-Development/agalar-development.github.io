@@ -1,0 +1,1 @@
+{"name":"GpuQuery","package":"com.mojang.blaze3d.systems","fqn":"com.mojang.blaze3d.systems.GpuQuery","type":"interface","members":["public abstract java.util.OptionalLong getValue();","public abstract void close();"],"references":[],"usages":[]}

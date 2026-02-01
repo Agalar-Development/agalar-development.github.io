@@ -1,0 +1,1 @@
+{"name":"HashCache$UpdateFunction","package":"net.minecraft.data","fqn":"net.minecraft.data.HashCache$UpdateFunction","type":"interface","members":["public abstract java.util.concurrent.CompletableFuture<?> update(net.minecraft.data.CachedOutput);"],"references":[],"usages":[]}

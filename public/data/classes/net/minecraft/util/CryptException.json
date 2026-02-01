@@ -1,0 +1,1 @@
+{"name":"CryptException","package":"net.minecraft.util","fqn":"net.minecraft.util.CryptException","type":"class","members":["public net.minecraft.util.CryptException(java.lang.Throwable);"],"references":[],"usages":["net.minecraft.client.multiplayer.AccountProfileKeyPairManager","net.minecraft.util.Crypt"]}

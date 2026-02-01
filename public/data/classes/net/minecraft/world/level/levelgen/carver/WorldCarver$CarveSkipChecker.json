@@ -1,0 +1,1 @@
+{"name":"WorldCarver$CarveSkipChecker","package":"net.minecraft.world.level.levelgen.carver","fqn":"net.minecraft.world.level.levelgen.carver.WorldCarver$CarveSkipChecker","type":"interface","members":["public abstract boolean shouldSkip(net.minecraft.world.level.levelgen.carver.CarvingContext, double, double, double, int);"],"references":[],"usages":[]}

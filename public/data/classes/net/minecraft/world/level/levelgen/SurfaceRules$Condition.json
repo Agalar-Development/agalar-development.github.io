@@ -1,0 +1,1 @@
+{"name":"SurfaceRules$Condition","package":"net.minecraft.world.level.levelgen","fqn":"net.minecraft.world.level.levelgen.SurfaceRules$Condition","type":"interface","members":["public abstract boolean test();"],"references":[],"usages":["net.minecraft.world.level.levelgen.SurfaceRules$NotConditionSource","net.minecraft.world.level.levelgen.SurfaceRules$TestRuleSource"]}

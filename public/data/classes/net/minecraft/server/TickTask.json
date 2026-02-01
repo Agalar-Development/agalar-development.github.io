@@ -1,0 +1,1 @@
+{"name":"TickTask","package":"net.minecraft.server","fqn":"net.minecraft.server.TickTask","type":"class","members":["private final int tick;","private final java.lang.Runnable runnable;","public net.minecraft.server.TickTask(int, java.lang.Runnable);","public int getTick();","public void run();"],"references":[],"usages":["net.minecraft.server.MinecraftServer"]}

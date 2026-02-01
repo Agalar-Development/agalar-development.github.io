@@ -1,0 +1,1 @@
+{"name":"Attackable","package":"net.minecraft.world.entity","fqn":"net.minecraft.world.entity.Attackable","type":"interface","members":["public abstract net.minecraft.world.entity.LivingEntity getLastAttacker();"],"references":[],"usages":["net.minecraft.server.commands.ExecuteCommand"]}

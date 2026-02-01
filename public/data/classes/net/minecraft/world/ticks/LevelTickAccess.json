@@ -1,0 +1,1 @@
+{"name":"LevelTickAccess","package":"net.minecraft.world.ticks","fqn":"net.minecraft.world.ticks.LevelTickAccess","type":"interface","members":["public abstract boolean willTickThisTick(net.minecraft.core.BlockPos, T);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"IdDispatchCodec$DontDecorateException","package":"net.minecraft.network.codec","fqn":"net.minecraft.network.codec.IdDispatchCodec$DontDecorateException","type":"interface","members":[],"references":[],"usages":["net.minecraft.network.codec.IdDispatchCodec"]}

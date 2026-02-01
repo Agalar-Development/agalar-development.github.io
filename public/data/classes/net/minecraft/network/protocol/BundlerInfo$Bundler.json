@@ -1,0 +1,1 @@
+{"name":"BundlerInfo$Bundler","package":"net.minecraft.network.protocol","fqn":"net.minecraft.network.protocol.BundlerInfo$Bundler","type":"interface","members":["public abstract net.minecraft.network.protocol.Packet<?> addPacket(net.minecraft.network.protocol.Packet<?>);"],"references":[],"usages":[]}

@@ -1,0 +1,1 @@
+{"name":"BeaconBeamBlock","package":"net.minecraft.world.level.block","fqn":"net.minecraft.world.level.block.BeaconBeamBlock","type":"interface","members":["public abstract net.minecraft.world.item.DyeColor getColor();"],"references":[],"usages":["net.minecraft.world.level.block.entity.BeaconBlockEntity"]}

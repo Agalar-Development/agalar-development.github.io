@@ -1,0 +1,1 @@
+{"name":"Rule$RuleAction","package":"net.minecraft.util.parsing.packrat","fqn":"net.minecraft.util.parsing.packrat.Rule$RuleAction","type":"interface","members":["public abstract T run(net.minecraft.util.parsing.packrat.ParseState<S>);"],"references":[],"usages":[]}

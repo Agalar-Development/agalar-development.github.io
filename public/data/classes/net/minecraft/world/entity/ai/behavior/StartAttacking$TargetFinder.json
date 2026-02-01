@@ -1,0 +1,1 @@
+{"name":"StartAttacking$TargetFinder","package":"net.minecraft.world.entity.ai.behavior","fqn":"net.minecraft.world.entity.ai.behavior.StartAttacking$TargetFinder","type":"interface","members":["public abstract java.util.Optional<? extends net.minecraft.world.entity.LivingEntity> get(net.minecraft.server.level.ServerLevel, E);"],"references":[],"usages":[]}

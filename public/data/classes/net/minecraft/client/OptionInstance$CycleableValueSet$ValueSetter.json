@@ -1,0 +1,1 @@
+{"name":"OptionInstance$CycleableValueSet$ValueSetter","package":"net.minecraft.client","fqn":"net.minecraft.client.OptionInstance$CycleableValueSet$ValueSetter","type":"interface","members":["public abstract void set(net.minecraft.client.OptionInstance<T>, T);"],"references":[],"usages":[]}
