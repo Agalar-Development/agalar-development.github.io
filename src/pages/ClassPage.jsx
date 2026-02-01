@@ -12,7 +12,7 @@ export default function ClassPage() {
     useEffect(() => {
         setLoading(true);
         setError(null);
-        const path = `/data/classes/${pkg.replace(/\./g, '/')}/${className}.json`;
+        const path = `${import.meta.env.BASE_URL}data/classes/${pkg.replace(/\./g, '/')}/${className}.json`;
 
         fetch(path)
             .then(res => {

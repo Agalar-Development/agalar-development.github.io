@@ -11,7 +11,7 @@ export default function SearchBar({ minimal = false }) {
     const navigate = useNavigate();
 
     useEffect(() => {
-        fetch('/data/search_index.json')
+        fetch(import.meta.env.BASE_URL + 'data/search_index.json')
             .then(res => res.json())
             .then(data => {
                 setIndex(data);
@@ -75,7 +75,7 @@ export default function SearchBar({ minimal = false }) {
                         <kbd className="hidden sm:inline-block rounded border border-border-dark bg-[#0d1117] px-1.5 py-0.5 text-[10px] font-mono font-medium text-slate-400">Ctrl K</kbd>
                     </div>
                 </div>
-                {}
+                { }
                 {isOpen && results.length > 0 && (
                     <div className="absolute top-full left-0 right-0 mt-2 bg-surface-dark border border-border-dark rounded-lg shadow-xl overflow-hidden z-50">
                         <ul className="py-1 max-h-96 overflow-y-auto custom-scrollbar">
@@ -110,7 +110,7 @@ export default function SearchBar({ minimal = false }) {
                 </div>
             </label>
 
-            {}
+            { }
             {isOpen && results.length > 0 && (
                 <div className="absolute top-full left-0 right-0 mt-2 bg-surface-dark border border-border-dark rounded-xl shadow-2xl overflow-hidden z-50">
                     <ul className="py-2 max-h-96 overflow-y-auto custom-scrollbar">
@@ -138,8 +138,8 @@ function SearchResultItem({ item, onSelect }) {
                 className="w-full text-left px-4 py-3 hover:bg-white/5 flex items-center gap-3 transition-colors group border-l-2 border-transparent hover:border-primary"
             >
                 <div className={`flex items-center justify-center size-8 rounded-lg border ${item.t === 'interface' ? 'border-purple-500/20 bg-purple-500/10 text-purple-400' :
-                        item.t === 'enum' ? 'border-yellow-500/20 bg-yellow-500/10 text-yellow-400' :
-                            'border-blue-500/20 bg-blue-500/10 text-blue-400'
+                    item.t === 'enum' ? 'border-yellow-500/20 bg-yellow-500/10 text-yellow-400' :
+                        'border-blue-500/20 bg-blue-500/10 text-blue-400'
                     }`}>
                     <span className="material-symbols-outlined text-[18px]">
                         {item.t === 'interface' ? 'code' : item.t === 'enum' ? 'view_api' : 'data_object'}

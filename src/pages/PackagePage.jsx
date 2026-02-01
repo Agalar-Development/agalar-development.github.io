@@ -9,7 +9,7 @@ export default function PackagePage() {
     const [error, setError] = useState(null);
 
     useEffect(() => {
-        fetch('/data/package_tree.json')
+        fetch(import.meta.env.BASE_URL + 'data/package_tree.json')
             .then(res => {
                 if (!res.ok) throw new Error('Failed to fetch');
                 return res.json();

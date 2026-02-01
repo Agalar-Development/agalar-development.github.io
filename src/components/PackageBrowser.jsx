@@ -7,7 +7,7 @@ export default function PackageBrowser({ startPath = 'net.minecraft' }) {
     const [error, setError] = useState(null);
 
     useEffect(() => {
-        fetch('/data/package_tree.json')
+        fetch(import.meta.env.BASE_URL + 'data/package_tree.json')
             .then(res => {
                 if (!res.ok) throw new Error('Failed to fetch');
                 return res.json();
@@ -98,8 +98,8 @@ export default function PackageBrowser({ startPath = 'net.minecraft' }) {
                         className="group p-3 rounded-lg border border-white/10 bg-white/5 hover:bg-white/10 hover:border-primary/50 transition-all flex items-center gap-3"
                     >
                         <div className={`p-1 rounded ${cls.t === 'interface' ? 'text-purple-400 bg-purple-500/10' :
-                                cls.t === 'enum' ? 'text-yellow-400 bg-yellow-500/10' :
-                                    'text-blue-400 bg-blue-500/10'
+                            cls.t === 'enum' ? 'text-yellow-400 bg-yellow-500/10' :
+                                'text-blue-400 bg-blue-500/10'
                             }`}>
                             <span className="material-symbols-outlined text-[16px]">
                                 {cls.t === 'interface' ? 'code' : cls.t === 'enum' ? 'view_api' : 'data_object'}
