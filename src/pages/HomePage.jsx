@@ -1,4 +1,5 @@
 import SearchBar from '../components/SearchBar';
+import PackageBrowser from '../components/PackageBrowser';
 
 export default function HomePage() {
     return (
@@ -46,6 +47,11 @@ export default function HomePage() {
                         <span className="material-symbols-outlined text-[20px] text-primary">functions</span>
                         <span><span className="text-white font-mono font-bold">150k+</span> Methods Mapped</span>
                     </div>
+                </div>
+
+                {/* Package Browser Section */}
+                <div className="w-full mt-12 animate-slide-up" style={{ animationDelay: '0.25s' }}>
+                    <PackageBrowser startPath="net.minecraft" />
                 </div>
             </div>
 
